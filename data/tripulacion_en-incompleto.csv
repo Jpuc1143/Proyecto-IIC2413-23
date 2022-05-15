@@ -1,0 +1,4525 @@
+trabajador_id,vuelo_id,rol,licencia_actual_id
+4,139,Tripulante de Cabina,
+38,64,Piloto,31
+24,21,Piloto,35
+8,41,Copiloto,45
+2,78,Tripulante de Cabina,
+35,124,Paramedico,
+22,101,Tripulante de Cabina,
+15,77,Copiloto,12
+40,35,Paramedico,
+59,129,Copiloto,17
+22,137,Tripulante de Cabina,
+31,9,Piloto,50
+25,103,Copiloto,36
+58,65,Tripulante de Cabina,
+17,36,Piloto,28
+59,126,Copiloto,17
+59,59,Copiloto,17
+39,15,Tripulante de Cabina,
+25,147,Copiloto,47
+25,91,Piloto,47
+18,41,Tripulante de Cabina,
+45,117,Paramedico,
+25,139,Piloto,47
+25,29,Piloto,47
+10,69,Piloto,11
+59,17,Piloto,17
+20,7,Paramedico,
+43,94,Paramedico,
+59,57,Copiloto,17
+8,41,Copiloto,45
+0,143,Copiloto,37
+8,109,Piloto,45
+53,27,Paramedico,
+14,117,Tripulante de Cabina,
+8,120,Piloto,45
+40,11,Paramedico,
+51,137,Tripulante de Cabina,
+25,8,Copiloto,47
+59,74,Piloto,48
+8,6,Copiloto,15
+35,89,Paramedico,
+34,89,Piloto,41
+8,131,Piloto,45
+37,67,Copiloto,25
+54,100,Piloto,0
+8,131,Piloto,15
+25,112,Copiloto,36
+25,125,Copiloto,36
+31,105,Piloto,50
+59,13,Piloto,48
+8,88,Copiloto,15
+19,85,Tripulante de Cabina,
+37,129,Piloto,25
+15,77,Copiloto,12
+17,134,Copiloto,28
+21,54,Piloto,22
+8,0,Piloto,15
+59,53,Piloto,17
+59,51,Piloto,17
+59,73,Copiloto,17
+23,48,Copiloto,49
+17,134,Copiloto,28
+17,134,Copiloto,28
+8,64,Copiloto,15
+18,65,Tripulante de Cabina,
+23,130,Copiloto,49
+12,87,Tripulante de Cabina,
+8,119,Piloto,15
+19,112,Tripulante de Cabina,
+10,0,Copiloto,11
+59,4,Copiloto,48
+25,119,Copiloto,36
+40,96,Paramedico,
+59,126,Copiloto,17
+7,1,Piloto,7
+4,105,Tripulante de Cabina,
+19,112,Tripulante de Cabina,
+22,136,Tripulante de Cabina,
+45,92,Paramedico,
+46,45,Tripulante de Cabina,
+46,28,Tripulante de Cabina,
+18,25,Tripulante de Cabina,
+59,52,Copiloto,48
+16,123,Tripulante de Cabina,
+15,131,Copiloto,46
+58,80,Tripulante de Cabina,
+31,14,Copiloto,50
+37,16,Piloto,25
+54,100,Piloto,0
+8,88,Copiloto,45
+8,67,Piloto,45
+50,95,Paramedico,
+18,55,Tripulante de Cabina,
+18,25,Tripulante de Cabina,
+37,83,Copiloto,25
+31,71,Piloto,50
+23,82,Copiloto,49
+17,90,Copiloto,28
+22,136,Tripulante de Cabina,
+7,19,Piloto,7
+59,3,Copiloto,17
+25,125,Copiloto,36
+14,121,Tripulante de Cabina,
+22,137,Tripulante de Cabina,
+22,74,Tripulante de Cabina,
+8,87,Copiloto,45
+58,29,Tripulante de Cabina,
+0,19,Copiloto,37
+47,109,Paramedico,
+0,19,Copiloto,37
+8,55,Copiloto,45
+7,8,Piloto,7
+24,112,Piloto,35
+56,108,Tripulante de Cabina,
+31,10,Piloto,50
+8,132,Copiloto,15
+22,108,Tripulante de Cabina,
+59,13,Piloto,17
+8,76,Copiloto,45
+25,29,Piloto,36
+32,132,Paramedico,
+34,89,Piloto,2
+59,66,Piloto,17
+23,62,Piloto,49
+1,50,Tripulante de Cabina,
+49,138,Paramedico,
+53,43,Paramedico,
+59,51,Piloto,17
+19,121,Tripulante de Cabina,
+2,91,Tripulante de Cabina,
+59,17,Piloto,48
+42,138,Tripulante de Cabina,
+8,55,Copiloto,15
+59,29,Copiloto,17
+56,27,Tripulante de Cabina,
+21,111,Copiloto,51
+8,110,Piloto,15
+23,26,Piloto,49
+19,135,Tripulante de Cabina,
+59,9,Copiloto,17
+13,146,Tripulante de Cabina,
+59,59,Copiloto,48
+12,26,Tripulante de Cabina,
+8,0,Piloto,15
+56,140,Tripulante de Cabina,
+37,94,Piloto,25
+5,75,Tripulante de Cabina,
+34,121,Copiloto,41
+58,128,Tripulante de Cabina,
+37,81,Copiloto,25
+18,103,Tripulante de Cabina,
+52,54,Paramedico,
+10,0,Copiloto,11
+8,60,Copiloto,15
+21,140,Piloto,22
+51,22,Tripulante de Cabina,
+22,131,Tripulante de Cabina,
+10,76,Piloto,11
+25,112,Copiloto,47
+59,140,Copiloto,48
+22,90,Tripulante de Cabina,
+32,146,Paramedico,
+8,142,Copiloto,15
+8,142,Copiloto,15
+38,45,Copiloto,40
+25,72,Piloto,36
+31,127,Piloto,50
+34,42,Piloto,2
+8,67,Piloto,45
+41,114,Copiloto,19
+0,86,Piloto,37
+8,80,Copiloto,15
+22,24,Tripulante de Cabina,
+21,115,Piloto,22
+8,41,Copiloto,15
+8,142,Copiloto,45
+56,124,Tripulante de Cabina,
+59,140,Copiloto,17
+8,100,Copiloto,15
+22,38,Tripulante de Cabina,
+24,21,Piloto,35
+33,91,Tripulante de Cabina,
+2,104,Tripulante de Cabina,
+50,29,Paramedico,
+59,17,Piloto,48
+7,133,Copiloto,7
+22,77,Tripulante de Cabina,
+52,41,Paramedico,
+24,84,Piloto,35
+8,107,Copiloto,45
+8,88,Copiloto,15
+19,119,Tripulante de Cabina,
+8,56,Piloto,15
+28,97,Tripulante de Cabina,
+59,31,Piloto,17
+50,29,Paramedico,
+37,83,Copiloto,25
+0,146,Piloto,37
+8,107,Copiloto,45
+59,129,Copiloto,48
+23,110,Copiloto,49
+32,144,Paramedico,
+47,98,Paramedico,
+8,12,Piloto,15
+59,86,Copiloto,17
+8,107,Copiloto,45
+25,139,Piloto,36
+22,108,Tripulante de Cabina,
+56,89,Tripulante de Cabina,
+21,38,Piloto,51
+8,131,Piloto,45
+56,111,Tripulante de Cabina,
+59,86,Copiloto,48
+22,73,Tripulante de Cabina,
+25,141,Copiloto,47
+8,87,Copiloto,45
+12,113,Tripulante de Cabina,
+25,145,Piloto,36
+7,136,Copiloto,7
+19,6,Tripulante de Cabina,
+7,19,Piloto,7
+0,143,Copiloto,37
+26,52,Tripulante de Cabina,
+40,23,Paramedico,
+31,26,Copiloto,50
+51,53,Tripulante de Cabina,
+8,12,Piloto,45
+0,107,Piloto,37
+58,33,Tripulante de Cabina,
+34,102,Copiloto,41
+56,109,Tripulante de Cabina,
+8,109,Piloto,15
+7,68,Piloto,7
+56,139,Tripulante de Cabina,
+22,36,Tripulante de Cabina,
+15,44,Piloto,12
+5,40,Tripulante de Cabina,
+59,35,Copiloto,17
+59,117,Copiloto,48
+0,40,Copiloto,37
+59,51,Piloto,17
+21,56,Copiloto,51
+26,118,Tripulante de Cabina,
+59,39,Piloto,48
+0,60,Piloto,37
+50,33,Paramedico,
+51,18,Tripulante de Cabina,
+46,136,Tripulante de Cabina,
+24,147,Piloto,35
+51,14,Tripulante de Cabina,
+59,101,Copiloto,48
+25,94,Copiloto,47
+9,106,Piloto,29
+16,41,Tripulante de Cabina,
+7,1,Piloto,7
+7,133,Copiloto,7
+56,38,Tripulante de Cabina,
+8,142,Copiloto,45
+59,59,Copiloto,17
+59,52,Copiloto,17
+7,141,Piloto,7
+31,9,Piloto,50
+21,136,Piloto,22
+25,8,Copiloto,36
+25,8,Copiloto,47
+59,99,Copiloto,48
+37,91,Copiloto,25
+59,3,Copiloto,48
+8,0,Piloto,45
+22,74,Tripulante de Cabina,
+2,46,Tripulante de Cabina,
+7,8,Piloto,7
+23,97,Piloto,49
+22,138,Tripulante de Cabina,
+21,136,Piloto,22
+0,23,Copiloto,37
+59,129,Copiloto,17
+25,8,Copiloto,47
+53,81,Paramedico,
+21,53,Copiloto,51
+35,106,Paramedico,
+25,137,Piloto,47
+38,123,Piloto,40
+59,66,Piloto,48
+8,131,Piloto,15
+2,9,Tripulante de Cabina,
+0,22,Copiloto,37
+26,97,Tripulante de Cabina,
+24,147,Piloto,35
+8,67,Piloto,15
+4,105,Tripulante de Cabina,
+25,112,Copiloto,36
+52,12,Paramedico,
+59,2,Piloto,17
+59,98,Piloto,48
+25,91,Piloto,47
+59,35,Copiloto,17
+59,29,Copiloto,17
+10,76,Piloto,11
+18,142,Tripulante de Cabina,
+8,110,Piloto,15
+25,128,Piloto,36
+23,110,Copiloto,49
+59,15,Copiloto,48
+22,28,Tripulante de Cabina,
+22,28,Tripulante de Cabina,
+8,55,Copiloto,15
+30,121,Paramedico,
+1,45,Tripulante de Cabina,
+0,122,Copiloto,37
+25,144,Piloto,36
+47,77,Paramedico,
+25,125,Copiloto,47
+16,95,Tripulante de Cabina,
+8,56,Piloto,45
+59,3,Copiloto,17
+53,141,Paramedico,
+59,4,Copiloto,48
+15,70,Piloto,46
+35,78,Paramedico,
+35,78,Paramedico,
+56,140,Tripulante de Cabina,
+16,12,Tripulante de Cabina,
+59,31,Piloto,17
+24,143,Piloto,35
+56,108,Tripulante de Cabina,
+28,134,Tripulante de Cabina,
+31,17,Copiloto,50
+27,19,Paramedico,
+25,127,Copiloto,47
+35,106,Paramedico,
+59,99,Copiloto,17
+31,85,Piloto,50
+25,145,Piloto,36
+52,28,Paramedico,
+18,142,Tripulante de Cabina,
+22,110,Tripulante de Cabina,
+16,12,Tripulante de Cabina,
+59,66,Piloto,17
+56,27,Tripulante de Cabina,
+30,84,Paramedico,
+58,39,Tripulante de Cabina,
+8,109,Piloto,45
+21,124,Copiloto,22
+8,45,Piloto,45
+12,127,Tripulante de Cabina,
+35,73,Paramedico,
+22,131,Tripulante de Cabina,
+22,59,Tripulante de Cabina,
+21,115,Piloto,22
+28,11,Tripulante de Cabina,
+51,51,Tripulante de Cabina,
+17,41,Piloto,28
+58,119,Tripulante de Cabina,
+23,118,Copiloto,49
+19,112,Tripulante de Cabina,
+8,100,Copiloto,15
+59,57,Copiloto,48
+22,110,Tripulante de Cabina,
+59,20,Copiloto,48
+53,27,Paramedico,
+20,66,Paramedico,
+59,3,Copiloto,17
+1,37,Tripulante de Cabina,
+31,127,Piloto,50
+30,21,Paramedico,
+8,144,Copiloto,45
+37,32,Piloto,25
+8,12,Piloto,45
+21,115,Piloto,22
+37,94,Piloto,25
+9,126,Piloto,29
+59,51,Piloto,17
+59,108,Piloto,17
+52,137,Paramedico,
+25,142,Piloto,36
+56,0,Tripulante de Cabina,
+22,38,Tripulante de Cabina,
+8,110,Piloto,45
+59,73,Copiloto,48
+25,139,Piloto,47
+39,42,Tripulante de Cabina,
+52,140,Paramedico,
+58,87,Tripulante de Cabina,
+8,100,Copiloto,45
+59,59,Copiloto,17
+34,30,Copiloto,41
+25,33,Piloto,36
+21,53,Copiloto,22
+7,136,Copiloto,7
+59,2,Piloto,17
+31,85,Piloto,50
+58,44,Tripulante de Cabina,
+18,143,Tripulante de Cabina,
+37,15,Piloto,25
+21,43,Piloto,51
+0,146,Piloto,37
+5,101,Tripulante de Cabina,
+22,36,Tripulante de Cabina,
+8,110,Piloto,15
+17,90,Copiloto,28
+59,111,Piloto,48
+25,137,Piloto,47
+59,86,Copiloto,17
+7,68,Piloto,7
+12,80,Tripulante de Cabina,
+41,93,Piloto,19
+22,24,Tripulante de Cabina,
+59,17,Piloto,48
+39,97,Tripulante de Cabina,
+8,45,Piloto,45
+22,38,Tripulante de Cabina,
+2,91,Tripulante de Cabina,
+16,120,Tripulante de Cabina,
+59,31,Piloto,48
+59,13,Piloto,17
+59,111,Piloto,17
+8,0,Piloto,45
+13,144,Tripulante de Cabina,
+24,21,Piloto,35
+59,73,Copiloto,48
+37,2,Copiloto,25
+59,57,Copiloto,17
+25,128,Piloto,47
+50,33,Paramedico,
+53,141,Paramedico,
+25,94,Copiloto,47
+2,137,Tripulante de Cabina,
+59,35,Copiloto,17
+22,8,Tripulante de Cabina,
+37,83,Copiloto,25
+2,136,Tripulante de Cabina,
+38,123,Piloto,31
+46,102,Tripulante de Cabina,
+59,48,Piloto,17
+18,1,Tripulante de Cabina,
+8,144,Copiloto,15
+59,29,Copiloto,17
+8,76,Copiloto,45
+8,132,Copiloto,45
+49,30,Paramedico,
+2,4,Tripulante de Cabina,
+24,95,Copiloto,35
+7,28,Copiloto,7
+34,42,Piloto,2
+19,58,Tripulante de Cabina,
+56,27,Tripulante de Cabina,
+24,63,Copiloto,35
+8,144,Copiloto,45
+0,62,Copiloto,37
+9,27,Piloto,29
+15,44,Piloto,46
+8,56,Piloto,45
+59,140,Copiloto,17
+34,109,Copiloto,41
+25,141,Copiloto,47
+51,53,Tripulante de Cabina,
+26,118,Tripulante de Cabina,
+25,138,Copiloto,36
+22,110,Tripulante de Cabina,
+41,124,Piloto,19
+59,123,Copiloto,48
+51,137,Tripulante de Cabina,
+59,53,Piloto,48
+21,53,Copiloto,22
+58,29,Tripulante de Cabina,
+41,30,Piloto,19
+21,32,Copiloto,22
+39,42,Tripulante de Cabina,
+25,81,Piloto,47
+16,25,Tripulante de Cabina,
+7,19,Piloto,7
+8,6,Copiloto,45
+25,37,Piloto,36
+25,112,Copiloto,36
+40,35,Paramedico,
+59,48,Piloto,17
+2,96,Tripulante de Cabina,
+8,41,Copiloto,15
+59,99,Copiloto,48
+59,108,Piloto,17
+59,140,Copiloto,48
+22,38,Tripulante de Cabina,
+47,109,Paramedico,
+25,95,Piloto,36
+50,105,Paramedico,
+22,109,Tripulante de Cabina,
+22,8,Tripulante de Cabina,
+31,69,Copiloto,50
+59,35,Copiloto,17
+41,34,Copiloto,19
+56,81,Tripulante de Cabina,
+37,96,Piloto,25
+9,31,Copiloto,29
+56,136,Tripulante de Cabina,
+15,131,Copiloto,12
+31,105,Piloto,50
+37,15,Piloto,25
+56,109,Tripulante de Cabina,
+9,65,Copiloto,29
+47,98,Paramedico,
+59,126,Copiloto,48
+59,99,Copiloto,48
+37,32,Piloto,25
+21,53,Copiloto,51
+37,63,Piloto,25
+8,100,Copiloto,45
+31,69,Copiloto,50
+30,125,Paramedico,
+19,85,Tripulante de Cabina,
+25,144,Piloto,47
+2,48,Tripulante de Cabina,
+8,87,Copiloto,15
+19,85,Tripulante de Cabina,
+59,29,Copiloto,48
+8,64,Copiloto,45
+59,51,Piloto,48
+8,41,Copiloto,45
+38,90,Piloto,40
+59,126,Copiloto,48
+38,5,Copiloto,31
+2,45,Tripulante de Cabina,
+37,7,Piloto,25
+38,45,Copiloto,31
+34,121,Copiloto,2
+25,147,Copiloto,47
+59,13,Piloto,17
+59,35,Copiloto,17
+25,127,Copiloto,36
+18,142,Tripulante de Cabina,
+32,142,Paramedico,
+59,111,Piloto,17
+2,124,Tripulante de Cabina,
+46,138,Tripulante de Cabina,
+2,26,Tripulante de Cabina,
+22,130,Tripulante de Cabina,
+39,9,Tripulante de Cabina,
+25,127,Copiloto,47
+10,78,Piloto,11
+4,129,Tripulante de Cabina,
+38,74,Copiloto,31
+22,138,Tripulante de Cabina,
+14,33,Tripulante de Cabina,
+2,48,Tripulante de Cabina,
+58,80,Tripulante de Cabina,
+41,124,Piloto,19
+56,47,Tripulante de Cabina,
+51,26,Tripulante de Cabina,
+34,47,Piloto,41
+25,125,Copiloto,36
+0,148,Piloto,37
+59,126,Copiloto,17
+12,48,Tripulante de Cabina,
+2,2,Tripulante de Cabina,
+34,30,Copiloto,41
+25,147,Copiloto,47
+59,29,Copiloto,17
+23,44,Copiloto,49
+25,95,Piloto,36
+8,119,Piloto,45
+21,115,Piloto,22
+13,113,Tripulante de Cabina,
+38,45,Copiloto,40
+28,11,Tripulante de Cabina,
+59,74,Piloto,17
+25,95,Piloto,47
+56,139,Tripulante de Cabina,
+59,86,Copiloto,17
+22,138,Tripulante de Cabina,
+45,117,Paramedico,
+56,36,Tripulante de Cabina,
+8,100,Copiloto,45
+59,111,Piloto,17
+25,80,Piloto,47
+59,86,Copiloto,17
+53,65,Paramedico,
+39,97,Tripulante de Cabina,
+21,53,Copiloto,22
+7,71,Copiloto,7
+5,138,Tripulante de Cabina,
+25,80,Piloto,47
+49,50,Paramedico,
+16,76,Tripulante de Cabina,
+59,48,Piloto,48
+46,50,Tripulante de Cabina,
+46,108,Tripulante de Cabina,
+22,101,Tripulante de Cabina,
+0,86,Piloto,37
+8,88,Copiloto,45
+32,144,Paramedico,
+50,37,Paramedico,
+25,80,Piloto,36
+51,51,Tripulante de Cabina,
+59,20,Copiloto,48
+58,33,Tripulante de Cabina,
+7,54,Copiloto,7
+25,8,Copiloto,36
+19,50,Tripulante de Cabina,
+49,50,Paramedico,
+35,89,Paramedico,
+37,63,Piloto,25
+5,59,Tripulante de Cabina,
+8,120,Piloto,45
+25,128,Piloto,36
+8,76,Copiloto,15
+8,0,Piloto,15
+37,96,Piloto,25
+59,65,Piloto,17
+52,13,Paramedico,
+31,37,Copiloto,50
+59,99,Copiloto,48
+59,31,Piloto,48
+51,38,Tripulante de Cabina,
+59,29,Copiloto,48
+59,4,Copiloto,48
+5,13,Tripulante de Cabina,
+34,102,Copiloto,2
+23,116,Piloto,49
+56,81,Tripulante de Cabina,
+0,62,Copiloto,37
+43,71,Paramedico,
+25,112,Copiloto,36
+14,90,Tripulante de Cabina,
+8,100,Copiloto,15
+34,89,Piloto,41
+59,29,Copiloto,48
+59,15,Copiloto,48
+2,33,Tripulante de Cabina,
+7,68,Piloto,7
+54,137,Copiloto,0
+59,35,Copiloto,48
+25,137,Piloto,36
+59,20,Copiloto,17
+59,117,Copiloto,48
+8,45,Piloto,45
+11,34,Tripulante de Cabina,
+21,136,Piloto,51
+46,139,Tripulante de Cabina,
+52,140,Paramedico,
+59,65,Piloto,17
+11,100,Tripulante de Cabina,
+25,21,Copiloto,47
+35,78,Paramedico,
+5,108,Tripulante de Cabina,
+59,74,Piloto,48
+25,95,Piloto,47
+19,121,Tripulante de Cabina,
+32,72,Paramedico,
+59,111,Piloto,17
+8,107,Copiloto,45
+59,59,Copiloto,17
+5,50,Tripulante de Cabina,
+8,119,Piloto,45
+13,63,Tripulante de Cabina,
+31,14,Copiloto,50
+21,32,Copiloto,51
+15,130,Piloto,12
+19,114,Tripulante de Cabina,
+18,68,Tripulante de Cabina,
+1,21,Tripulante de Cabina,
+25,94,Copiloto,47
+34,102,Copiloto,2
+8,144,Copiloto,45
+58,80,Tripulante de Cabina,
+2,34,Tripulante de Cabina,
+8,6,Copiloto,45
+59,117,Copiloto,48
+15,134,Piloto,12
+33,91,Tripulante de Cabina,
+8,132,Copiloto,15
+2,121,Tripulante de Cabina,
+54,132,Piloto,0
+25,148,Copiloto,47
+32,142,Paramedico,
+46,108,Tripulante de Cabina,
+46,43,Tripulante de Cabina,
+59,4,Copiloto,48
+21,135,Piloto,22
+52,9,Paramedico,
+2,93,Tripulante de Cabina,
+19,37,Tripulante de Cabina,
+59,59,Copiloto,17
+59,51,Piloto,48
+22,28,Tripulante de Cabina,
+25,72,Piloto,47
+48,35,Tripulante de Cabina,
+54,132,Piloto,0
+22,74,Tripulante de Cabina,
+34,50,Copiloto,2
+41,104,Copiloto,19
+15,131,Copiloto,12
+8,132,Copiloto,45
+22,77,Tripulante de Cabina,
+42,49,Tripulante de Cabina,
+59,17,Piloto,17
+59,29,Copiloto,48
+8,100,Copiloto,45
+8,88,Copiloto,45
+59,59,Copiloto,48
+27,14,Paramedico,
+5,59,Tripulante de Cabina,
+56,124,Tripulante de Cabina,
+31,135,Copiloto,50
+8,88,Copiloto,15
+7,71,Copiloto,7
+8,6,Copiloto,45
+59,29,Copiloto,48
+32,132,Paramedico,
+1,6,Tripulante de Cabina,
+56,104,Tripulante de Cabina,
+59,1,Copiloto,48
+59,15,Copiloto,17
+8,87,Copiloto,45
+27,14,Paramedico,
+25,125,Copiloto,36
+34,109,Copiloto,41
+4,105,Tripulante de Cabina,
+8,132,Copiloto,15
+34,121,Copiloto,2
+53,81,Paramedico,
+31,16,Copiloto,50
+2,137,Tripulante de Cabina,
+24,143,Piloto,35
+56,111,Tripulante de Cabina,
+37,82,Piloto,25
+59,9,Copiloto,48
+59,29,Copiloto,48
+21,136,Piloto,22
+18,72,Tripulante de Cabina,
+59,31,Piloto,48
+10,92,Copiloto,11
+25,91,Piloto,47
+25,72,Piloto,47
+42,44,Tripulante de Cabina,
+54,75,Piloto,0
+59,9,Copiloto,48
+22,73,Tripulante de Cabina,
+34,47,Piloto,2
+38,123,Piloto,31
+21,38,Piloto,22
+8,60,Copiloto,15
+25,128,Piloto,47
+34,34,Piloto,41
+56,115,Tripulante de Cabina,
+8,144,Copiloto,15
+37,63,Piloto,25
+29,11,Piloto,26
+52,54,Paramedico,
+38,5,Copiloto,40
+37,16,Piloto,25
+10,66,Copiloto,11
+7,136,Copiloto,7
+59,99,Copiloto,48
+0,59,Piloto,37
+56,109,Tripulante de Cabina,
+14,103,Tripulante de Cabina,
+8,132,Copiloto,15
+8,56,Piloto,45
+58,1,Tripulante de Cabina,
+34,73,Piloto,41
+42,44,Tripulante de Cabina,
+59,98,Piloto,48
+59,117,Copiloto,48
+56,46,Tripulante de Cabina,
+5,141,Tripulante de Cabina,
+14,33,Tripulante de Cabina,
+27,62,Paramedico,
+41,102,Piloto,19
+21,140,Piloto,51
+25,103,Copiloto,36
+24,104,Piloto,35
+59,73,Copiloto,48
+51,23,Tripulante de Cabina,
+18,148,Tripulante de Cabina,
+59,39,Piloto,17
+59,39,Piloto,17
+8,132,Copiloto,15
+7,141,Piloto,7
+52,18,Paramedico,
+24,104,Piloto,35
+8,80,Copiloto,45
+9,126,Piloto,29
+8,67,Piloto,45
+17,79,Piloto,28
+21,56,Copiloto,51
+8,55,Copiloto,45
+32,147,Paramedico,
+22,139,Tripulante de Cabina,
+50,33,Paramedico,
+25,94,Copiloto,47
+0,23,Copiloto,37
+9,5,Piloto,29
+59,65,Piloto,48
+23,122,Piloto,49
+21,32,Copiloto,51
+51,139,Tripulante de Cabina,
+5,40,Tripulante de Cabina,
+25,37,Piloto,47
+56,111,Tripulante de Cabina,
+8,80,Copiloto,15
+59,15,Copiloto,17
+19,114,Tripulante de Cabina,
+59,48,Piloto,48
+59,126,Copiloto,48
+22,131,Tripulante de Cabina,
+8,55,Copiloto,45
+59,74,Piloto,48
+56,0,Tripulante de Cabina,
+17,89,Copiloto,28
+59,9,Copiloto,17
+39,15,Tripulante de Cabina,
+42,137,Tripulante de Cabina,
+37,79,Copiloto,25
+15,46,Piloto,12
+15,88,Piloto,46
+13,107,Tripulante de Cabina,
+46,6,Tripulante de Cabina,
+43,4,Paramedico,
+25,91,Piloto,47
+40,97,Paramedico,
+25,112,Copiloto,47
+59,48,Piloto,17
+56,115,Tripulante de Cabina,
+58,23,Tripulante de Cabina,
+59,117,Copiloto,48
+59,3,Copiloto,17
+54,138,Piloto,0
+21,124,Copiloto,22
+32,132,Paramedico,
+18,143,Tripulante de Cabina,
+34,109,Copiloto,2
+19,34,Tripulante de Cabina,
+35,46,Paramedico,
+50,68,Paramedico,
+25,145,Piloto,47
+59,65,Piloto,48
+32,42,Paramedico,
+37,67,Copiloto,25
+49,108,Paramedico,
+8,107,Copiloto,15
+26,92,Tripulante de Cabina,
+28,11,Tripulante de Cabina,
+30,125,Paramedico,
+34,102,Copiloto,41
+19,120,Tripulante de Cabina,
+34,106,Copiloto,2
+24,58,Piloto,35
+8,132,Copiloto,45
+21,36,Copiloto,22
+56,115,Tripulante de Cabina,
+52,41,Paramedico,
+47,109,Paramedico,
+19,114,Tripulante de Cabina,
+25,38,Copiloto,47
+50,85,Paramedico,
+8,80,Copiloto,45
+40,22,Paramedico,
+54,43,Copiloto,0
+59,20,Copiloto,17
+59,13,Piloto,17
+59,74,Piloto,17
+2,138,Tripulante de Cabina,
+21,139,Copiloto,22
+11,6,Tripulante de Cabina,
+59,117,Copiloto,17
+40,122,Paramedico,
+16,84,Tripulante de Cabina,
+54,75,Piloto,0
+7,8,Piloto,7
+34,47,Piloto,2
+31,17,Copiloto,50
+11,6,Tripulante de Cabina,
+25,29,Piloto,47
+59,111,Piloto,48
+2,68,Tripulante de Cabina,
+31,14,Copiloto,50
+54,11,Copiloto,0
+5,121,Tripulante de Cabina,
+20,130,Paramedico,
+15,130,Piloto,46
+53,91,Paramedico,
+11,57,Tripulante de Cabina,
+34,89,Piloto,2
+15,44,Piloto,12
+59,66,Piloto,17
+54,43,Copiloto,0
+59,98,Piloto,48
+19,6,Tripulante de Cabina,
+59,9,Copiloto,17
+35,36,Paramedico,
+51,23,Tripulante de Cabina,
+35,126,Paramedico,
+20,66,Paramedico,
+8,109,Piloto,45
+15,44,Piloto,12
+15,130,Piloto,12
+21,98,Copiloto,22
+30,58,Paramedico,
+21,133,Piloto,22
+22,0,Tripulante de Cabina,
+49,50,Paramedico,
+0,143,Copiloto,37
+59,126,Copiloto,17
+59,13,Piloto,48
+58,119,Tripulante de Cabina,
+52,12,Paramedico,
+22,36,Tripulante de Cabina,
+8,12,Piloto,15
+22,73,Tripulante de Cabina,
+8,6,Copiloto,15
+8,107,Copiloto,45
+27,57,Paramedico,
+28,26,Tripulante de Cabina,
+12,119,Tripulante de Cabina,
+58,65,Tripulante de Cabina,
+59,53,Piloto,17
+35,46,Paramedico,
+58,5,Tripulante de Cabina,
+8,45,Piloto,15
+11,11,Tripulante de Cabina,
+2,124,Tripulante de Cabina,
+58,17,Tripulante de Cabina,
+48,59,Tripulante de Cabina,
+22,110,Tripulante de Cabina,
+59,101,Copiloto,48
+43,80,Paramedico,
+10,12,Copiloto,11
+56,38,Tripulante de Cabina,
+37,129,Piloto,25
+2,4,Tripulante de Cabina,
+56,131,Tripulante de Cabina,
+21,136,Piloto,51
+34,34,Piloto,41
+22,137,Tripulante de Cabina,
+25,127,Copiloto,36
+40,83,Paramedico,
+23,26,Piloto,49
+9,126,Piloto,29
+2,9,Tripulante de Cabina,
+59,59,Copiloto,17
+7,141,Piloto,7
+53,133,Paramedico,
+37,18,Piloto,25
+59,65,Piloto,48
+8,60,Copiloto,15
+8,56,Piloto,15
+50,95,Paramedico,
+49,138,Paramedico,
+40,11,Paramedico,
+8,60,Copiloto,45
+38,45,Copiloto,31
+11,57,Tripulante de Cabina,
+56,89,Tripulante de Cabina,
+15,131,Copiloto,12
+59,39,Piloto,17
+25,58,Copiloto,47
+59,129,Copiloto,48
+56,46,Tripulante de Cabina,
+18,145,Tripulante de Cabina,
+59,13,Piloto,48
+56,108,Tripulante de Cabina,
+19,121,Tripulante de Cabina,
+15,88,Piloto,12
+9,5,Piloto,29
+8,120,Piloto,45
+25,91,Piloto,36
+59,51,Piloto,17
+21,84,Copiloto,22
+7,71,Copiloto,7
+28,30,Tripulante de Cabina,
+59,140,Copiloto,48
+28,88,Tripulante de Cabina,
+50,2,Paramedico,
+17,114,Piloto,28
+25,147,Copiloto,36
+59,101,Copiloto,17
+59,13,Piloto,48
+8,120,Piloto,45
+25,38,Copiloto,47
+37,27,Copiloto,25
+51,138,Tripulante de Cabina,
+24,7,Copiloto,35
+21,36,Copiloto,51
+8,45,Piloto,45
+0,59,Piloto,37
+59,20,Copiloto,48
+24,7,Copiloto,35
+28,97,Tripulante de Cabina,
+47,111,Paramedico,
+34,108,Copiloto,41
+59,20,Copiloto,48
+34,30,Copiloto,41
+25,139,Piloto,36
+56,98,Tripulante de Cabina,
+8,109,Piloto,15
+59,51,Piloto,48
+0,60,Piloto,37
+25,141,Copiloto,47
+46,121,Tripulante de Cabina,
+34,89,Piloto,41
+14,91,Tripulante de Cabina,
+21,84,Copiloto,51
+56,1,Tripulante de Cabina,
+59,123,Copiloto,48
+52,18,Paramedico,
+25,8,Copiloto,36
+34,108,Copiloto,2
+56,89,Tripulante de Cabina,
+40,82,Paramedico,
+21,43,Piloto,22
+50,5,Paramedico,
+59,111,Piloto,48
+8,100,Copiloto,45
+20,44,Paramedico,
+59,48,Piloto,17
+21,115,Piloto,51
+31,18,Copiloto,50
+25,91,Piloto,47
+23,14,Piloto,49
+25,119,Copiloto,47
+59,35,Copiloto,48
+59,51,Piloto,48
+25,138,Copiloto,47
+59,99,Copiloto,48
+37,27,Copiloto,25
+52,26,Paramedico,
+56,46,Tripulante de Cabina,
+12,20,Tripulante de Cabina,
+5,38,Tripulante de Cabina,
+7,54,Copiloto,7
+56,36,Tripulante de Cabina,
+59,20,Copiloto,17
+37,3,Piloto,25
+58,65,Tripulante de Cabina,
+32,67,Paramedico,
+45,52,Paramedico,
+34,34,Piloto,2
+37,18,Piloto,25
+16,76,Tripulante de Cabina,
+18,128,Tripulante de Cabina,
+58,1,Tripulante de Cabina,
+56,0,Tripulante de Cabina,
+39,96,Tripulante de Cabina,
+58,44,Tripulante de Cabina,
+33,42,Tripulante de Cabina,
+54,115,Copiloto,0
+22,136,Tripulante de Cabina,
+24,25,Copiloto,35
+46,34,Tripulante de Cabina,
+8,80,Copiloto,45
+22,77,Tripulante de Cabina,
+8,109,Piloto,15
+39,106,Tripulante de Cabina,
+50,105,Paramedico,
+21,140,Piloto,51
+30,121,Paramedico,
+49,108,Paramedico,
+14,81,Tripulante de Cabina,
+46,38,Tripulante de Cabina,
+40,86,Paramedico,
+59,39,Piloto,48
+8,67,Piloto,45
+59,66,Piloto,48
+49,30,Paramedico,
+21,84,Copiloto,51
+8,45,Piloto,15
+8,100,Copiloto,45
+15,77,Copiloto,12
+13,146,Tripulante de Cabina,
+25,37,Piloto,47
+28,132,Tripulante de Cabina,
+7,51,Copiloto,7
+15,88,Piloto,12
+50,2,Paramedico,
+45,123,Paramedico,
+59,99,Copiloto,17
+21,139,Copiloto,51
+8,12,Piloto,45
+59,59,Copiloto,17
+59,123,Copiloto,48
+8,80,Copiloto,45
+8,76,Copiloto,45
+27,49,Paramedico,
+19,87,Tripulante de Cabina,
+59,140,Copiloto,17
+56,66,Tripulante de Cabina,
+25,141,Copiloto,47
+8,0,Piloto,15
+51,18,Tripulante de Cabina,
+25,119,Copiloto,36
+7,19,Piloto,7
+0,107,Piloto,37
+18,148,Tripulante de Cabina,
+0,116,Copiloto,37
+22,101,Tripulante de Cabina,
+8,60,Copiloto,45
+25,147,Copiloto,47
+32,72,Paramedico,
+8,80,Copiloto,15
+31,16,Copiloto,50
+8,110,Piloto,45
+2,93,Tripulante de Cabina,
+34,109,Copiloto,41
+46,34,Tripulante de Cabina,
+59,52,Copiloto,48
+18,103,Tripulante de Cabina,
+8,142,Copiloto,15
+34,106,Copiloto,41
+34,30,Copiloto,2
+59,53,Piloto,48
+48,40,Tripulante de Cabina,
+59,101,Copiloto,17
+37,105,Copiloto,25
+4,111,Tripulante de Cabina,
+59,73,Copiloto,17
+8,119,Piloto,45
+22,89,Tripulante de Cabina,
+59,126,Copiloto,48
+7,28,Copiloto,7
+8,45,Piloto,15
+38,99,Piloto              ,31
+46,30,Tripulante de Cabina,
+45,48,Paramedico,
+7,128,Copiloto,7
+46,136,Tripulante de Cabina,
+59,39,Piloto,48
+25,94,Copiloto,36
+34,34,Piloto,2
+39,106,Tripulante de Cabina,
+8,41,Copiloto,45
+59,9,Copiloto,17
+59,126,Copiloto,17
+15,70,Piloto,12
+39,16,Tripulante de Cabina,
+17,47,Copiloto,28
+38,90,Piloto,40
+46,43,Tripulante de Cabina,
+22,136,Tripulante de Cabina,
+37,4,Piloto,25
+59,101,Copiloto,17
+23,26,Piloto,49
+59,9,Copiloto,17
+0,23,Copiloto,37
+41,50,Piloto,19
+21,139,Copiloto,22
+23,82,Copiloto,49
+17,79,Piloto,28
+59,57,Copiloto,17
+46,30,Tripulante de Cabina,
+0,75,Copiloto,37
+21,38,Piloto,22
+8,120,Piloto,15
+8,56,Piloto,15
+20,44,Paramedico,
+46,45,Tripulante de Cabina,
+2,141,Tripulante de Cabina,
+8,100,Copiloto,15
+31,135,Copiloto,50
+59,59,Copiloto,48
+25,58,Copiloto,47
+8,0,Piloto,15
+59,59,Copiloto,48
+21,36,Copiloto,51
+24,85,Copiloto,35
+7,61,Copiloto,7
+59,9,Copiloto,17
+22,24,Tripulante de Cabina,
+26,48,Tripulante de Cabina,
+8,76,Copiloto,15
+23,96,Copiloto,49
+24,93,Copiloto,35
+40,39,Paramedico,
+8,144,Copiloto,45
+8,41,Copiloto,45
+52,114,Paramedico,
+54,138,Piloto,0
+59,101,Copiloto,17
+30,64,Paramedico,
+0,40,Copiloto,37
+25,58,Copiloto,36
+59,140,Copiloto,17
+34,106,Copiloto,41
+15,70,Piloto,12
+48,48,Tripulante de Cabina,
+34,73,Piloto,41
+59,57,Copiloto,17
+17,118,Piloto,28
+38,99,Piloto              ,40
+8,12,Piloto,15
+48,40,Tripulante de Cabina,
+16,95,Tripulante de Cabina,
+51,96,Tripulante de Cabina,
+24,147,Piloto,35
+47,0,Paramedico,
+59,74,Piloto,17
+4,98,Tripulante de Cabina,
+8,110,Piloto,15
+8,56,Piloto,45
+59,3,Copiloto,48
+8,131,Piloto,15
+21,115,Piloto,22
+30,143,Paramedico,
+38,5,Copiloto,31
+25,137,Piloto,36
+4,138,Tripulante de Cabina,
+59,108,Piloto,48
+52,69,Paramedico,
+53,43,Paramedico,
+42,115,Tripulante de Cabina,
+59,35,Copiloto,17
+59,48,Piloto,17
+52,114,Paramedico,
+8,131,Piloto,15
+41,25,Piloto,19
+59,111,Piloto,48
+19,6,Tripulante de Cabina,
+21,38,Piloto,51
+10,69,Piloto,11
+10,78,Piloto,11
+19,125,Tripulante de Cabina,
+59,73,Copiloto,17
+25,145,Piloto,36
+8,119,Piloto,45
+59,101,Copiloto,48
+5,19,Tripulante de Cabina,
+8,64,Copiloto,45
+34,106,Copiloto,41
+56,94,Tripulante de Cabina,
+47,131,Paramedico,
+11,45,Tripulante de Cabina,
+46,8,Tripulante de Cabina,
+24,112,Piloto,35
+59,66,Piloto,17
+59,117,Copiloto,17
+8,80,Copiloto,15
+40,23,Paramedico,
+25,144,Piloto,36
+26,48,Tripulante de Cabina,
+25,37,Piloto,36
+58,68,Tripulante de Cabina,
+22,90,Tripulante de Cabina,
+47,131,Paramedico,
+9,5,Piloto,29
+25,72,Piloto,36
+20,60,Paramedico,
+40,83,Paramedico,
+8,120,Piloto,45
+8,67,Piloto,15
+58,80,Tripulante de Cabina,
+59,140,Copiloto,48
+8,144,Copiloto,15
+2,45,Tripulante de Cabina,
+53,38,Paramedico,
+59,2,Piloto,17
+23,44,Copiloto,49
+1,45,Tripulante de Cabina,
+59,98,Piloto,48
+59,3,Copiloto,48
+59,126,Copiloto,17
+23,118,Copiloto,49
+8,56,Piloto,15
+37,4,Piloto,25
+37,63,Piloto,25
+0,22,Copiloto,37
+5,13,Tripulante de Cabina,
+59,73,Copiloto,48
+56,140,Tripulante de Cabina,
+21,111,Copiloto,51
+25,103,Copiloto,36
+19,121,Tripulante de Cabina,
+21,98,Copiloto,51
+58,86,Tripulante de Cabina,
+51,96,Tripulante de Cabina,
+25,91,Piloto,36
+25,8,Copiloto,47
+59,129,Copiloto,48
+59,73,Copiloto,17
+52,69,Paramedico,
+59,15,Copiloto,17
+41,10,Copiloto,19
+12,113,Tripulante de Cabina,
+22,131,Tripulante de Cabina,
+25,81,Piloto,36
+58,39,Tripulante de Cabina,
+22,99,Tripulante de Cabina,
+59,15,Copiloto,48
+59,4,Copiloto,48
+59,4,Copiloto,48
+22,59,Tripulante de Cabina,
+58,65,Tripulante de Cabina,
+59,2,Piloto,48
+56,104,Tripulante de Cabina,
+8,45,Piloto,15
+40,35,Paramedico,
+31,71,Piloto,50
+58,65,Tripulante de Cabina,
+58,87,Tripulante de Cabina,
+16,69,Tripulante de Cabina,
+54,137,Copiloto,0
+59,129,Copiloto,17
+4,47,Tripulante de Cabina,
+22,109,Tripulante de Cabina,
+50,16,Paramedico,
+0,148,Piloto,37
+59,48,Piloto,17
+8,87,Copiloto,45
+59,126,Copiloto,48
+19,6,Tripulante de Cabina,
+56,104,Tripulante de Cabina,
+17,79,Piloto,28
+8,142,Copiloto,15
+59,13,Piloto,17
+28,26,Tripulante de Cabina,
+21,61,Piloto,51
+59,108,Piloto,17
+12,20,Tripulante de Cabina,
+8,67,Piloto,45
+59,4,Copiloto,17
+10,0,Copiloto,11
+37,7,Piloto,25
+59,13,Piloto,48
+25,148,Copiloto,36
+7,28,Copiloto,7
+23,97,Piloto,49
+1,37,Tripulante de Cabina,
+59,39,Piloto,48
+49,34,Paramedico,
+59,86,Copiloto,17
+40,22,Paramedico,
+58,99,Tripulante de Cabina,
+20,110,Paramedico,
+39,9,Tripulante de Cabina,
+21,124,Copiloto,51
+25,138,Copiloto,36
+21,54,Piloto,51
+21,84,Copiloto,22
+34,89,Piloto,2
+0,22,Copiloto,37
+21,135,Piloto,22
+10,78,Piloto,11
+25,119,Copiloto,47
+56,47,Tripulante de Cabina,
+31,135,Copiloto,50
+8,60,Copiloto,15
+4,140,Tripulante de Cabina,
+40,86,Paramedico,
+21,61,Piloto,22
+23,22,Piloto,49
+59,73,Copiloto,48
+50,16,Paramedico,
+59,111,Piloto,17
+25,145,Piloto,47
+2,91,Tripulante de Cabina,
+53,115,Paramedico,
+54,11,Copiloto,0
+58,103,Tripulante de Cabina,
+23,130,Copiloto,49
+21,139,Copiloto,51
+15,88,Piloto,12
+37,105,Copiloto,25
+25,142,Piloto,36
+24,85,Copiloto,35
+24,146,Copiloto,35
+23,96,Copiloto,49
+2,78,Tripulante de Cabina,
+38,121,Piloto,31
+16,25,Tripulante de Cabina,
+47,129,Paramedico,
+58,128,Tripulante de Cabina,
+15,88,Piloto,46
+8,67,Piloto,15
+17,47,Copiloto,28
+59,86,Copiloto,48
+8,100,Copiloto,15
+0,72,Copiloto,37
+8,100,Copiloto,15
+26,92,Tripulante de Cabina,
+59,123,Copiloto,17
+15,24,Piloto,46
+56,129,Tripulante de Cabina,
+19,50,Tripulante de Cabina,
+34,106,Copiloto,41
+8,60,Copiloto,45
+56,66,Tripulante de Cabina,
+28,52,Tripulante de Cabina,
+2,46,Tripulante de Cabina,
+56,1,Tripulante de Cabina,
+59,52,Copiloto,17
+46,102,Tripulante de Cabina,
+59,48,Piloto,17
+33,29,Tripulante de Cabina,
+59,140,Copiloto,17
+51,39,Tripulante de Cabina,
+21,136,Piloto,22
+2,34,Tripulante de Cabina,
+24,63,Copiloto,35
+59,74,Piloto,48
+31,57,Piloto,50
+8,76,Copiloto,15
+7,128,Copiloto,7
+8,132,Copiloto,15
+22,36,Tripulante de Cabina,
+24,125,Piloto,35
+58,70,Tripulante de Cabina,
+25,125,Copiloto,47
+15,134,Piloto,46
+19,119,Tripulante de Cabina,
+34,42,Piloto,41
+24,25,Copiloto,35
+8,12,Piloto,15
+59,66,Piloto,48
+25,142,Piloto,36
+51,23,Tripulante de Cabina,
+59,31,Piloto,48
+21,140,Piloto,22
+59,9,Copiloto,48
+34,42,Piloto,2
+17,89,Copiloto,28
+25,141,Copiloto,47
+2,104,Tripulante de Cabina,
+18,145,Tripulante de Cabina,
+2,138,Tripulante de Cabina,
+19,85,Tripulante de Cabina,
+21,133,Piloto,51
+59,4,Copiloto,17
+0,148,Piloto,37
+16,125,Tripulante de Cabina,
+13,3,Tripulante de Cabina,
+0,70,Copiloto,37
+25,137,Piloto,47
+25,142,Piloto,36
+37,113,Piloto,25
+50,85,Paramedico,
+46,121,Tripulante de Cabina,
+8,55,Copiloto,15
+37,3,Piloto,25
+25,138,Copiloto,47
+51,116,Tripulante de Cabina,
+21,43,Piloto,51
+34,121,Copiloto,2
+37,96,Piloto,25
+22,108,Tripulante de Cabina,
+21,54,Piloto,51
+59,31,Piloto,17
+31,85,Piloto,50
+2,138,Tripulante de Cabina,
+0,145,Copiloto,37
+59,108,Piloto,17
+23,26,Piloto,49
+17,134,Copiloto,28
+25,137,Piloto,36
+8,109,Piloto,15
+25,21,Copiloto,36
+13,72,Tripulante de Cabina,
+22,138,Tripulante de Cabina,
+27,59,Paramedico,
+59,1,Copiloto,17
+58,1,Tripulante de Cabina,
+35,73,Paramedico,
+25,103,Copiloto,47
+8,88,Copiloto,15
+34,42,Piloto,41
+25,148,Copiloto,47
+25,128,Piloto,47
+59,140,Copiloto,17
+59,66,Piloto,17
+58,103,Tripulante de Cabina,
+30,125,Paramedico,
+24,58,Piloto,35
+25,95,Piloto,47
+21,43,Piloto,22
+58,60,Tripulante de Cabina,
+59,13,Piloto,48
+15,70,Piloto,12
+2,33,Tripulante de Cabina,
+8,76,Copiloto,45
+39,15,Tripulante de Cabina,
+8,56,Piloto,15
+34,6,Piloto,41
+56,108,Tripulante de Cabina,
+24,63,Copiloto,35
+24,7,Copiloto,35
+29,11,Piloto,44
+59,52,Copiloto,17
+8,132,Copiloto,45
+56,47,Tripulante de Cabina,
+37,27,Copiloto,25
+34,50,Copiloto,41
+25,148,Copiloto,36
+59,98,Piloto,48
+22,77,Tripulante de Cabina,
+23,62,Piloto,49
+25,29,Piloto,36
+22,59,Tripulante de Cabina,
+59,20,Copiloto,17
+27,62,Paramedico,
+25,119,Copiloto,36
+23,82,Copiloto,49
+21,36,Copiloto,22
+35,15,Paramedico,
+31,16,Copiloto,50
+5,101,Tripulante de Cabina,
+53,56,Paramedico,
+8,6,Copiloto,45
+23,82,Copiloto,49
+24,125,Piloto,35
+43,103,Paramedico,
+42,137,Tripulante de Cabina,
+59,9,Copiloto,17
+24,104,Piloto,35
+59,13,Piloto,17
+8,12,Piloto,45
+59,126,Copiloto,17
+5,5,Tripulante de Cabina,
+33,65,Tripulante de Cabina,
+10,66,Copiloto,11
+59,51,Piloto,17
+37,15,Piloto,25
+8,87,Copiloto,45
+59,73,Copiloto,17
+25,125,Copiloto,36
+59,129,Copiloto,17
+22,99,Tripulante de Cabina,
+59,31,Piloto,17
+8,64,Copiloto,15
+8,55,Copiloto,45
+46,45,Tripulante de Cabina,
+59,15,Copiloto,48
+16,69,Tripulante de Cabina,
+38,5,Copiloto,40
+21,133,Piloto,22
+59,73,Copiloto,48
+59,65,Piloto,17
+34,30,Copiloto,2
+51,22,Tripulante de Cabina,
+59,66,Piloto,48
+59,65,Piloto,17
+58,86,Tripulante de Cabina,
+48,48,Tripulante de Cabina,
+59,1,Copiloto,48
+38,121,Piloto,31
+34,50,Copiloto,2
+37,129,Piloto,25
+25,94,Copiloto,36
+21,133,Piloto,51
+8,45,Piloto,45
+22,49,Tripulante de Cabina,
+52,137,Paramedico,
+54,113,Copiloto,0
+8,64,Copiloto,15
+59,65,Piloto,17
+59,29,Copiloto,48
+8,100,Copiloto,45
+58,39,Tripulante de Cabina,
+5,141,Tripulante de Cabina,
+59,101,Copiloto,17
+35,124,Paramedico,
+25,80,Piloto,47
+8,64,Copiloto,45
+21,111,Copiloto,22
+58,60,Tripulante de Cabina,
+1,45,Tripulante de Cabina,
+42,138,Tripulante de Cabina,
+8,144,Copiloto,15
+26,26,Tripulante de Cabina,
+0,78,Copiloto,37
+2,9,Tripulante de Cabina,
+59,98,Piloto,17
+59,35,Copiloto,48
+23,52,Piloto,49
+4,136,Tripulante de Cabina,
+59,140,Copiloto,48
+4,47,Tripulante de Cabina,
+22,59,Tripulante de Cabina,
+9,27,Piloto,29
+8,80,Copiloto,15
+58,60,Tripulante de Cabina,
+59,57,Copiloto,17
+59,3,Copiloto,48
+16,123,Tripulante de Cabina,
+8,76,Copiloto,15
+21,140,Piloto,51
+32,72,Paramedico,
+28,45,Tripulante de Cabina,
+37,83,Copiloto,25
+31,71,Piloto,50
+8,88,Copiloto,45
+34,30,Copiloto,2
+59,15,Copiloto,48
+4,32,Tripulante de Cabina,
+59,108,Piloto,48
+25,33,Piloto,36
+14,90,Tripulante de Cabina,
+21,124,Copiloto,51
+18,107,Tripulante de Cabina,
+19,120,Tripulante de Cabina,
+5,121,Tripulante de Cabina,
+36,,,
+8,45,Piloto,45
+21,115,Piloto,51
+34,42,Piloto,2
+59,29,Copiloto,48
+8,12,Piloto,45
+21,139,Copiloto,51
+12,7,Tripulante de Cabina,
+7,136,Copiloto,7
+46,8,Tripulante de Cabina,
+56,98,Tripulante de Cabina,
+56,81,Tripulante de Cabina,
+21,98,Copiloto,51
+8,60,Copiloto,45
+15,24,Piloto,46
+35,124,Paramedico,
+19,87,Tripulante de Cabina,
+37,27,Copiloto,25
+21,135,Piloto,51
+25,80,Piloto,36
+58,17,Tripulante de Cabina,
+38,74,Copiloto,40
+25,33,Piloto,47
+21,139,Copiloto,51
+8,119,Piloto,15
+59,39,Piloto,48
+19,114,Tripulante de Cabina,
+12,48,Tripulante de Cabina,
+34,106,Copiloto,2
+25,119,Copiloto,47
+8,131,Piloto,45
+34,30,Copiloto,2
+40,23,Paramedico,
+8,120,Piloto,15
+56,1,Tripulante de Cabina,
+56,27,Tripulante de Cabina,
+21,54,Piloto,22
+59,2,Piloto,17
+59,15,Copiloto,48
+59,73,Copiloto,48
+59,1,Copiloto,17
+40,97,Paramedico,
+25,144,Piloto,36
+59,111,Piloto,48
+34,50,Copiloto,2
+25,94,Copiloto,47
+25,128,Piloto,36
+33,33,Tripulante de Cabina,
+21,98,Copiloto,51
+22,24,Tripulante de Cabina,
+22,90,Tripulante de Cabina,
+7,1,Piloto,7
+8,56,Piloto,45
+37,129,Piloto,25
+9,31,Copiloto,29
+15,70,Piloto,12
+8,67,Piloto,45
+59,35,Copiloto,48
+51,54,Tripulante de Cabina,
+25,55,Piloto,36
+4,2,Tripulante de Cabina,
+21,135,Piloto,51
+25,139,Piloto,47
+4,136,Tripulante de Cabina,
+25,141,Copiloto,36
+8,60,Copiloto,45
+59,51,Piloto,48
+19,37,Tripulante de Cabina,
+8,0,Piloto,45
+33,42,Tripulante de Cabina,
+34,109,Copiloto,2
+52,69,Paramedico,
+53,65,Paramedico,
+22,101,Tripulante de Cabina,
+59,4,Copiloto,17
+25,37,Piloto,47
+18,72,Tripulante de Cabina,
+59,99,Copiloto,48
+25,58,Copiloto,36
+15,70,Piloto,12
+59,53,Piloto,48
+31,39,Copiloto,50
+59,111,Piloto,48
+2,26,Tripulante de Cabina,
+18,107,Tripulante de Cabina,
+25,37,Piloto,36
+59,86,Copiloto,48
+22,28,Tripulante de Cabina,
+42,49,Tripulante de Cabina,
+28,67,Tripulante de Cabina,
+40,39,Paramedico,
+43,94,Paramedico,
+8,45,Piloto,45
+34,108,Copiloto,2
+30,58,Paramedico,
+2,26,Tripulante de Cabina,
+59,129,Copiloto,17
+19,58,Tripulante de Cabina,
+17,114,Piloto,28
+2,91,Tripulante de Cabina,
+52,26,Paramedico,
+15,130,Piloto,46
+25,95,Piloto,47
+59,15,Copiloto,17
+51,97,Tripulante de Cabina,
+37,81,Copiloto,25
+58,87,Tripulante de Cabina,
+59,9,Copiloto,17
+20,60,Paramedico,
+21,124,Copiloto,22
+21,38,Piloto,22
+21,61,Piloto,51
+17,36,Piloto,28
+59,2,Piloto,17
+13,72,Tripulante de Cabina,
+18,41,Tripulante de Cabina,
+19,6,Tripulante de Cabina,
+15,46,Piloto,46
+23,24,Copiloto,49
+7,103,Piloto,7
+12,119,Tripulante de Cabina,
+56,81,Tripulante de Cabina,
+19,120,Tripulante de Cabina,
+25,55,Piloto,47
+59,4,Copiloto,17
+25,33,Piloto,47
+8,110,Piloto,45
+25,58,Copiloto,36
+59,108,Piloto,17
+41,114,Copiloto,19
+25,94,Copiloto,36
+0,49,Copiloto,37
+12,20,Tripulante de Cabina,
+15,130,Piloto,12
+47,111,Paramedico,
+56,38,Tripulante de Cabina,
+43,80,Paramedico,
+19,58,Tripulante de Cabina,
+12,26,Tripulante de Cabina,
+59,111,Piloto,17
+30,21,Paramedico,
+58,44,Tripulante de Cabina,
+46,50,Tripulante de Cabina,
+15,77,Copiloto,46
+8,0,Piloto,15
+59,52,Copiloto,48
+59,1,Copiloto,17
+59,123,Copiloto,48
+59,20,Copiloto,17
+31,97,Copiloto,50
+0,145,Copiloto,37
+22,110,Tripulante de Cabina,
+12,61,Tripulante de Cabina,
+20,113,Paramedico,
+8,131,Piloto,45
+9,31,Copiloto,29
+4,111,Tripulante de Cabina,
+16,120,Tripulante de Cabina,
+59,57,Copiloto,48
+59,86,Copiloto,48
+12,3,Tripulante de Cabina,
+8,144,Copiloto,45
+8,120,Piloto,15
+8,55,Copiloto,45
+20,20,Paramedico,
+21,28,Piloto,22
+0,122,Copiloto,37
+31,17,Copiloto,50
+25,139,Piloto,36
+54,132,Piloto,0
+37,35,Piloto,25
+56,38,Tripulante de Cabina,
+0,122,Copiloto,37
+59,57,Copiloto,48
+24,147,Piloto,35
+59,66,Piloto,48
+7,54,Copiloto,7
+34,6,Piloto,2
+37,79,Copiloto,25
+34,47,Piloto,2
+50,5,Paramedico,
+2,104,Tripulante de Cabina,
+53,128,Paramedico,
+58,87,Tripulante de Cabina,
+59,1,Copiloto,17
+54,75,Piloto,0
+31,39,Copiloto,50
+13,147,Tripulante de Cabina,
+59,140,Copiloto,17
+45,118,Paramedico,
+25,58,Copiloto,47
+2,45,Tripulante de Cabina,
+34,106,Copiloto,41
+35,36,Paramedico,
+32,142,Paramedico,
+0,19,Copiloto,37
+42,19,Tripulante de Cabina,
+35,32,Paramedico,
+31,23,Piloto,50
+19,69,Tripulante de Cabina,
+39,96,Tripulante de Cabina,
+23,110,Copiloto,49
+46,28,Tripulante de Cabina,
+15,131,Copiloto,12
+16,95,Tripulante de Cabina,
+59,99,Copiloto,17
+19,119,Tripulante de Cabina,
+59,3,Copiloto,17
+37,18,Piloto,25
+59,73,Copiloto,17
+19,10,Tripulante de Cabina,
+11,45,Tripulante de Cabina,
+8,88,Copiloto,15
+5,75,Tripulante de Cabina,
+25,38,Copiloto,47
+59,101,Copiloto,48
+5,138,Tripulante de Cabina,
+19,120,Tripulante de Cabina,
+0,49,Copiloto,37
+15,77,Copiloto,12
+8,67,Piloto,15
+0,49,Copiloto,37
+59,53,Piloto,48
+24,112,Piloto,35
+30,112,Paramedico,
+25,141,Copiloto,36
+22,28,Tripulante de Cabina,
+51,52,Tripulante de Cabina,
+19,112,Tripulante de Cabina,
+13,144,Tripulante de Cabina,
+59,108,Piloto,17
+12,87,Tripulante de Cabina,
+7,40,Piloto,7
+59,31,Piloto,48
+59,53,Piloto,48
+59,31,Piloto,48
+5,40,Tripulante de Cabina,
+4,48,Tripulante de Cabina,
+59,59,Copiloto,17
+19,69,Tripulante de Cabina,
+21,28,Piloto,22
+59,51,Piloto,17
+56,47,Tripulante de Cabina,
+20,3,Paramedico,
+8,64,Copiloto,45
+51,52,Tripulante de Cabina,
+18,41,Tripulante de Cabina,
+25,145,Piloto,47
+59,98,Piloto,17
+20,24,Paramedico,
+59,74,Piloto,17
+9,5,Piloto,29
+39,16,Tripulante de Cabina,
+30,6,Paramedico,
+13,144,Tripulante de Cabina,
+8,12,Piloto,15
+59,86,Copiloto,17
+59,57,Copiloto,17
+51,26,Tripulante de Cabina,
+25,21,Copiloto,47
+0,122,Copiloto,37
+52,13,Paramedico,
+25,21,Copiloto,47
+15,70,Piloto,46
+28,79,Tripulante de Cabina,
+17,36,Piloto,28
+10,92,Copiloto,11
+2,121,Tripulante de Cabina,
+59,86,Copiloto,48
+50,2,Paramedico,
+25,119,Copiloto,47
+25,148,Copiloto,47
+54,83,Piloto,0
+8,107,Copiloto,15
+24,95,Copiloto,35
+38,90,Piloto,40
+25,148,Copiloto,36
+14,91,Tripulante de Cabina,
+22,130,Tripulante de Cabina,
+0,22,Copiloto,37
+37,91,Copiloto,25
+34,34,Piloto,41
+59,111,Piloto,17
+56,94,Tripulante de Cabina,
+21,32,Copiloto,22
+25,138,Copiloto,36
+52,120,Paramedico,
+23,44,Copiloto,49
+25,95,Piloto,36
+59,123,Copiloto,17
+48,52,Tripulante de Cabina,
+7,103,Piloto,7
+8,119,Piloto,15
+40,83,Paramedico,
+18,76,Tripulante de Cabina,
+18,1,Tripulante de Cabina,
+10,92,Copiloto,11
+46,137,Tripulante de Cabina,
+8,88,Copiloto,45
+24,146,Copiloto,35
+59,126,Copiloto,48
+59,48,Piloto,48
+0,75,Copiloto,37
+19,58,Tripulante de Cabina,
+12,61,Tripulante de Cabina,
+1,37,Tripulante de Cabina,
+27,40,Paramedico,
+59,101,Copiloto,17
+22,136,Tripulante de Cabina,
+16,10,Tripulante de Cabina,
+21,38,Piloto,51
+56,115,Tripulante de Cabina,
+7,51,Copiloto,7
+59,74,Piloto,48
+2,9,Tripulante de Cabina,
+40,88,Paramedico,
+35,93,Paramedico,
+41,102,Piloto,19
+25,72,Piloto,36
+21,61,Piloto,22
+8,87,Copiloto,15
+13,38,Tripulante de Cabina,
+15,44,Piloto,46
+58,68,Tripulante de Cabina,
+25,29,Piloto,47
+24,93,Copiloto,35
+59,3,Copiloto,17
+17,120,Copiloto,28
+21,54,Piloto,51
+8,56,Piloto,45
+21,140,Piloto,22
+19,37,Tripulante de Cabina,
+59,48,Piloto,48
+25,142,Piloto,36
+56,131,Tripulante de Cabina,
+9,106,Piloto,29
+58,122,Tripulante de Cabina,
+59,117,Copiloto,48
+22,36,Tripulante de Cabina,
+54,101,Piloto,0
+2,136,Tripulante de Cabina,
+34,6,Piloto,2
+24,7,Copiloto,35
+5,59,Tripulante de Cabina,
+59,59,Copiloto,48
+8,87,Copiloto,15
+8,144,Copiloto,45
+19,125,Tripulante de Cabina,
+59,65,Piloto,48
+18,1,Tripulante de Cabina,
+59,13,Piloto,48
+42,130,Tripulante de Cabina,
+21,135,Piloto,51
+54,137,Copiloto,0
+38,90,Piloto,31
+19,120,Tripulante de Cabina,
+39,71,Tripulante de Cabina,
+42,137,Tripulante de Cabina,
+16,25,Tripulante de Cabina,
+31,14,Copiloto,50
+8,88,Copiloto,45
+13,147,Tripulante de Cabina,
+53,56,Paramedico,
+25,147,Copiloto,47
+20,3,Paramedico,
+59,99,Copiloto,48
+25,55,Piloto,47
+25,38,Copiloto,47
+22,8,Tripulante de Cabina,
+59,1,Copiloto,48
+37,35,Piloto,25
+59,9,Copiloto,48
+25,55,Piloto,36
+0,72,Copiloto,37
+17,41,Piloto,28
+40,25,Paramedico,
+19,112,Tripulante de Cabina,
+59,86,Copiloto,17
+25,138,Copiloto,47
+8,144,Copiloto,15
+25,80,Piloto,47
+8,132,Copiloto,15
+20,70,Paramedico,
+24,143,Piloto,35
+5,38,Tripulante de Cabina,
+2,141,Tripulante de Cabina,
+25,145,Piloto,47
+20,63,Paramedico,
+59,98,Piloto,17
+18,72,Tripulante de Cabina,
+12,97,Tripulante de Cabina,
+48,59,Tripulante de Cabina,
+27,49,Paramedico,
+28,97,Tripulante de Cabina,
+25,95,Piloto,36
+59,57,Copiloto,48
+52,120,Paramedico,
+38,5,Copiloto,40
+2,138,Tripulante de Cabina,
+21,133,Piloto,51
+19,135,Tripulante de Cabina,
+31,23,Piloto,50
+59,123,Copiloto,17
+19,10,Tripulante de Cabina,
+17,120,Copiloto,28
+40,11,Paramedico,
+8,64,Copiloto,45
+51,96,Tripulante de Cabina,
+59,126,Copiloto,17
+8,119,Piloto,45
+43,1,Paramedico,
+56,129,Tripulante de Cabina,
+56,131,Tripulante de Cabina,
+59,98,Piloto,48
+22,139,Tripulante de Cabina,
+7,51,Copiloto,7
+25,145,Piloto,36
+58,44,Tripulante de Cabina,
+15,130,Piloto,46
+21,111,Copiloto,51
+59,108,Piloto,17
+37,96,Piloto,25
+59,101,Copiloto,48
+59,20,Copiloto,48
+59,39,Piloto,17
+34,34,Piloto,41
+23,116,Piloto,49
+26,52,Tripulante de Cabina,
+59,111,Piloto,48
+52,13,Paramedico,
+59,51,Piloto,48
+15,24,Piloto,46
+15,46,Piloto,12
+21,139,Copiloto,22
+49,102,Paramedico,
+8,131,Piloto,15
+2,46,Tripulante de Cabina,
+8,120,Piloto,45
+38,99,Piloto              ,31
+2,26,Tripulante de Cabina,
+25,94,Copiloto,36
+59,111,Piloto,48
+22,74,Tripulante de Cabina,
+50,95,Paramedico,
+59,3,Copiloto,48
+51,115,Tripulante de Cabina,
+37,35,Piloto,25
+38,123,Piloto,40
+1,21,Tripulante de Cabina,
+22,136,Tripulante de Cabina,
+14,29,Tripulante de Cabina,
+37,3,Piloto,25
+8,120,Piloto,15
+8,80,Copiloto,45
+24,93,Copiloto,35
+30,55,Paramedico,
+2,137,Tripulante de Cabina,
+59,65,Piloto,17
+58,99,Tripulante de Cabina,
+56,46,Tripulante de Cabina,
+34,73,Piloto,41
+58,68,Tripulante de Cabina,
+59,39,Piloto,17
+59,59,Copiloto,17
+38,74,Copiloto,31
+37,113,Piloto,25
+59,20,Copiloto,48
+56,136,Tripulante de Cabina,
+8,110,Piloto,45
+58,86,Tripulante de Cabina,
+59,20,Copiloto,17
+59,17,Piloto,17
+35,15,Paramedico,
+59,53,Piloto,48
+18,103,Tripulante de Cabina,
+38,74,Copiloto,40
+14,81,Tripulante de Cabina,
+38,64,Piloto,31
+25,37,Piloto,36
+34,6,Piloto,41
+58,23,Tripulante de Cabina,
+4,38,Tripulante de Cabina,
+37,83,Copiloto,25
+38,77,Piloto,31
+21,111,Copiloto,51
+8,87,Copiloto,15
+56,129,Tripulante de Cabina,
+35,104,Paramedico,
+39,96,Tripulante de Cabina,
+22,109,Tripulante de Cabina,
+59,53,Piloto,17
+2,78,Tripulante de Cabina,
+30,84,Paramedico,
+7,28,Copiloto,7
+25,55,Piloto,47
+8,110,Piloto,15
+59,39,Piloto,17
+53,38,Paramedico,
+59,39,Piloto,48
+5,19,Tripulante de Cabina,
+47,47,Paramedico,
+34,73,Piloto,2
+59,2,Piloto,48
+19,135,Tripulante de Cabina,
+59,66,Piloto,17
+49,45,Paramedico,
+37,16,Piloto,25
+25,38,Copiloto,36
+27,101,Paramedico,
+2,81,Tripulante de Cabina,
+25,94,Copiloto,36
+52,10,Paramedico,
+21,98,Copiloto,51
+2,81,Tripulante de Cabina,
+11,22,Tripulante de Cabina,
+21,133,Piloto,22
+59,101,Copiloto,48
+59,123,Copiloto,17
+59,17,Piloto,48
+20,110,Paramedico,
+21,38,Piloto,22
+52,51,Paramedico,
+35,73,Paramedico,
+31,57,Piloto,50
+25,58,Copiloto,47
+12,3,Tripulante de Cabina,
+59,15,Copiloto,17
+34,121,Copiloto,41
+59,140,Copiloto,17
+12,96,Tripulante de Cabina,
+23,62,Piloto,49
+59,2,Piloto,17
+25,29,Piloto,36
+46,137,Tripulante de Cabina,
+25,127,Copiloto,47
+40,97,Paramedico,
+56,124,Tripulante de Cabina,
+59,65,Piloto,48
+25,139,Piloto,47
+40,83,Paramedico,
+14,117,Tripulante de Cabina,
+59,86,Copiloto,48
+22,89,Tripulante de Cabina,
+8,64,Copiloto,15
+4,115,Tripulante de Cabina,
+25,55,Piloto,36
+8,67,Piloto,45
+8,109,Piloto,15
+8,56,Piloto,45
+32,146,Paramedico,
+14,103,Tripulante de Cabina,
+25,94,Copiloto,47
+34,30,Copiloto,41
+25,138,Copiloto,47
+59,35,Copiloto,17
+45,92,Paramedico,
+2,46,Tripulante de Cabina,
+8,67,Piloto,15
+2,137,Tripulante de Cabina,
+59,52,Copiloto,48
+59,1,Copiloto,17
+2,81,Tripulante de Cabina,
+26,82,Tripulante de Cabina,
+51,52,Tripulante de Cabina,
+58,33,Tripulante de Cabina,
+56,1,Tripulante de Cabina,
+25,72,Piloto,47
+42,51,Tripulante de Cabina,
+34,108,Copiloto,41
+22,0,Tripulante de Cabina,
+54,138,Piloto,0
+11,122,Tripulante de Cabina,
+9,33,Copiloto,29
+34,102,Copiloto,2
+49,8,Paramedico,
+8,109,Piloto,45
+59,51,Piloto,17
+25,29,Piloto,36
+56,136,Tripulante de Cabina,
+56,129,Tripulante de Cabina,
+0,145,Copiloto,37
+20,66,Paramedico,
+22,0,Tripulante de Cabina,
+41,20,Piloto,19
+15,46,Piloto,46
+5,108,Tripulante de Cabina,
+59,111,Piloto,17
+15,46,Piloto,12
+37,7,Piloto,25
+31,18,Copiloto,50
+31,97,Copiloto,50
+41,34,Copiloto,19
+8,109,Piloto,15
+25,72,Piloto,36
+12,26,Tripulante de Cabina,
+37,105,Copiloto,25
+8,80,Copiloto,45
+54,137,Copiloto,0
+8,0,Piloto,45
+35,106,Paramedico,
+52,137,Paramedico,
+59,1,Copiloto,48
+34,6,Piloto,41
+25,128,Piloto,47
+59,57,Copiloto,17
+15,44,Piloto,46
+8,120,Piloto,45
+40,35,Paramedico,
+8,41,Copiloto,15
+8,76,Copiloto,15
+59,117,Copiloto,17
+46,133,Tripulante de Cabina,
+58,70,Tripulante de Cabina,
+59,9,Copiloto,17
+8,120,Piloto,45
+8,119,Piloto,15
+24,125,Piloto,35
+10,69,Piloto,11
+56,98,Tripulante de Cabina,
+59,13,Piloto,48
+12,96,Tripulante de Cabina,
+7,136,Copiloto,7
+37,2,Copiloto,25
+12,96,Tripulante de Cabina,
+20,70,Paramedico,
+23,92,Piloto,49
+22,89,Tripulante de Cabina,
+59,86,Copiloto,48
+8,110,Piloto,45
+11,22,Tripulante de Cabina,
+21,124,Copiloto,51
+56,98,Tripulante de Cabina,
+51,26,Tripulante de Cabina,
+59,98,Piloto,48
+0,148,Piloto,37
+59,129,Copiloto,17
+21,61,Piloto,22
+2,121,Tripulante de Cabina,
+25,119,Copiloto,47
+21,43,Piloto,51
+22,101,Tripulante de Cabina,
+59,59,Copiloto,17
+14,117,Tripulante de Cabina,
+59,123,Copiloto,17
+8,12,Piloto,45
+21,56,Copiloto,22
+53,115,Paramedico,
+25,138,Copiloto,36
+59,57,Copiloto,48
+2,29,Tripulante de Cabina,
+15,70,Piloto,46
+2,34,Tripulante de Cabina,
+26,35,Tripulante de Cabina,
+0,146,Piloto,37
+23,14,Piloto,49
+46,115,Tripulante de Cabina,
+15,134,Piloto,12
+20,70,Paramedico,
+28,45,Tripulante de Cabina,
+25,128,Piloto,47
+7,13,Copiloto,7
+14,33,Tripulante de Cabina,
+37,81,Copiloto,25
+8,6,Copiloto,15
+4,140,Tripulante de Cabina,
+59,59,Copiloto,48
+22,99,Tripulante de Cabina,
+59,129,Copiloto,17
+4,129,Tripulante de Cabina,
+41,10,Copiloto,19
+25,142,Piloto,47
+25,144,Piloto,36
+21,54,Piloto,51
+50,37,Paramedico,
+22,131,Tripulante de Cabina,
+59,65,Piloto,17
+0,145,Copiloto,37
+59,17,Piloto,17
+59,15,Copiloto,17
+31,127,Piloto,50
+3,,,53
+47,90,Paramedico,
+2,68,Tripulante de Cabina,
+59,53,Piloto,17
+52,114,Paramedico,
+38,117,Piloto,31
+9,33,Copiloto,29
+59,99,Copiloto,48
+56,46,Tripulante de Cabina,
+13,138,Tripulante de Cabina,
+7,40,Piloto,7
+47,77,Paramedico,
+2,141,Tripulante de Cabina,
+37,32,Piloto,25
+7,87,Piloto,7
+21,28,Piloto,51
+5,30,Tripulante de Cabina,
+14,74,Tripulante de Cabina,
+25,91,Piloto,47
+12,119,Tripulante de Cabina,
+5,50,Tripulante de Cabina,
+25,138,Copiloto,36
+8,120,Piloto,15
+45,123,Paramedico,
+56,104,Tripulante de Cabina,
+8,80,Copiloto,45
+52,12,Paramedico,
+12,9,Tripulante de Cabina,
+22,130,Tripulante de Cabina,
+21,135,Piloto,22
+37,68,Copiloto,25
+8,0,Piloto,45
+59,13,Piloto,48
+11,122,Tripulante de Cabina,
+37,63,Piloto,25
+30,121,Paramedico,
+21,111,Copiloto,22
+56,0,Tripulante de Cabina,
+28,30,Tripulante de Cabina,
+15,131,Copiloto,46
+8,131,Piloto,15
+18,65,Tripulante de Cabina,
+19,34,Tripulante de Cabina,
+31,10,Piloto,50
+8,110,Piloto,45
+22,131,Tripulante de Cabina,
+51,51,Tripulante de Cabina,
+59,98,Piloto,48
+25,55,Piloto,36
+59,117,Copiloto,48
+59,2,Piloto,48
+31,17,Copiloto,50
+8,107,Copiloto,45
+35,126,Paramedico,
+16,112,Tripulante de Cabina,
+25,21,Copiloto,36
+34,102,Copiloto,41
+27,116,Paramedico,
+8,80,Copiloto,45
+25,127,Copiloto,36
+21,84,Copiloto,51
+23,92,Piloto,49
+19,50,Tripulante de Cabina,
+25,72,Piloto,47
+25,142,Piloto,47
+34,34,Piloto,2
+59,53,Piloto,48
+49,139,Paramedico,
+2,45,Tripulante de Cabina,
+59,3,Copiloto,48
+37,96,Piloto,25
+59,123,Copiloto,17
+59,86,Copiloto,17
+51,140,Tripulante de Cabina,
+47,131,Paramedico,
+54,11,Copiloto,0
+59,4,Copiloto,17
+8,0,Piloto,45
+21,28,Piloto,51
+34,6,Piloto,2
+12,87,Tripulante de Cabina,
+34,50,Copiloto,2
+5,75,Tripulante de Cabina,
+23,52,Piloto,49
+30,6,Paramedico,
+10,92,Copiloto,11
+25,147,Copiloto,36
+59,9,Copiloto,48
+59,101,Copiloto,17
+58,60,Tripulante de Cabina,
+8,6,Copiloto,45
+59,17,Piloto,48
+49,102,Paramedico,
+25,38,Copiloto,47
+8,107,Copiloto,15
+0,59,Piloto,37
+2,81,Tripulante de Cabina,
+18,81,Tripulante de Cabina,
+25,147,Copiloto,36
+38,117,Piloto,40
+32,67,Paramedico,
+4,2,Tripulante de Cabina,
+59,35,Copiloto,48
+46,108,Tripulante de Cabina,
+47,47,Paramedico,
+2,78,Tripulante de Cabina,
+22,110,Tripulante de Cabina,
+42,60,Tripulante de Cabina,
+22,130,Tripulante de Cabina,
+58,122,Tripulante de Cabina,
+25,112,Copiloto,36
+8,142,Copiloto,15
+8,67,Piloto,45
+8,0,Piloto,15
+59,9,Copiloto,48
+38,77,Piloto,40
+39,126,Tripulante de Cabina,
+33,65,Tripulante de Cabina,
+8,0,Piloto,15
+8,144,Copiloto,45
+58,5,Tripulante de Cabina,
+59,4,Copiloto,48
+22,109,Tripulante de Cabina,
+13,138,Tripulante de Cabina,
+16,125,Tripulante de Cabina,
+32,134,Paramedico,
+24,58,Piloto,35
+8,100,Copiloto,15
+32,42,Paramedico,
+17,79,Piloto,28
+45,74,Paramedico,
+0,62,Copiloto,37
+15,46,Piloto,12
+46,38,Tripulante de Cabina,
+59,35,Copiloto,48
+59,48,Piloto,48
+59,35,Copiloto,17
+22,90,Tripulante de Cabina,
+59,2,Piloto,17
+23,62,Piloto,49
+8,0,Piloto,15
+35,31,Paramedico,
+23,97,Piloto,49
+24,85,Copiloto,35
+0,70,Copiloto,37
+46,136,Tripulante de Cabina,
+23,24,Copiloto,49
+25,103,Copiloto,47
+31,16,Copiloto,50
+21,124,Copiloto,51
+24,112,Piloto,35
+56,98,Tripulante de Cabina,
+2,68,Tripulante de Cabina,
+13,8,Tripulante de Cabina,
+13,107,Tripulante de Cabina,
+15,134,Piloto,46
+34,34,Piloto,2
+8,107,Copiloto,15
+25,125,Copiloto,47
+11,22,Tripulante de Cabina,
+41,25,Piloto,19
+25,148,Copiloto,36
+25,81,Piloto,36
+32,79,Paramedico,
+30,135,Paramedico,
+41,93,Piloto,19
+59,57,Copiloto,48
+59,20,Copiloto,17
+8,12,Piloto,15
+8,76,Copiloto,15
+34,109,Copiloto,2
+0,62,Copiloto,37
+59,117,Copiloto,17
+42,130,Tripulante de Cabina,
+48,52,Tripulante de Cabina,
+53,61,Paramedico,
+59,1,Copiloto,17
+31,71,Piloto,50
+28,9,Tripulante de Cabina,
+37,83,Copiloto,25
+59,13,Piloto,17
+21,133,Piloto,22
+15,134,Piloto,12
+24,25,Copiloto,35
+25,145,Piloto,47
+25,142,Piloto,36
+8,76,Copiloto,45
+59,53,Piloto,48
+59,31,Piloto,48
+56,66,Tripulante de Cabina,
+59,129,Copiloto,17
+32,148,Paramedico,
+0,86,Piloto,37
+27,57,Paramedico,
+49,99,Paramedico,
+37,32,Piloto,25
+17,47,Copiloto,28
+21,136,Piloto,22
+59,53,Piloto,17
+40,100,Paramedico,
+25,81,Piloto,36
+32,79,Paramedico,
+8,142,Copiloto,45
+25,148,Copiloto,36
+52,26,Paramedico,
+22,130,Tripulante de Cabina,
+4,98,Tripulante de Cabina,
+50,95,Paramedico,
+8,88,Copiloto,15
+37,91,Copiloto,25
+12,56,Tripulante de Cabina,
+58,5,Tripulante de Cabina,
+7,1,Piloto,7
+37,82,Piloto,25
+21,98,Copiloto,51
+59,101,Copiloto,48
+39,9,Tripulante de Cabina,
+20,24,Paramedico,
+59,108,Piloto,48
+45,52,Paramedico,
+2,2,Tripulante de Cabina,
+34,34,Piloto,2
+56,27,Tripulante de Cabina,
+59,3,Copiloto,48
+38,90,Piloto,31
+34,50,Copiloto,41
+56,139,Tripulante de Cabina,
+23,52,Piloto,49
+22,89,Tripulante de Cabina,
+37,105,Copiloto,25
+37,27,Copiloto,25
+59,129,Copiloto,17
+56,136,Tripulante de Cabina,
+15,24,Piloto,12
+59,73,Copiloto,48
+56,115,Tripulante de Cabina,
+31,135,Copiloto,50
+8,6,Copiloto,45
+59,73,Copiloto,48
+25,145,Piloto,36
+31,57,Piloto,50
+35,32,Paramedico,
+8,55,Copiloto,15
+25,58,Copiloto,36
+8,67,Piloto,15
+27,17,Paramedico,
+21,28,Piloto,22
+23,14,Piloto,49
+17,120,Copiloto,28
+59,31,Piloto,17
+59,123,Copiloto,48
+9,42,Copiloto,29
+59,65,Piloto,17
+11,45,Tripulante de Cabina,
+37,91,Copiloto,25
+21,111,Copiloto,22
+59,17,Piloto,48
+15,46,Piloto,46
+17,118,Piloto,28
+5,138,Tripulante de Cabina,
+31,18,Copiloto,50
+59,129,Copiloto,48
+25,125,Copiloto,36
+59,4,Copiloto,17
+25,148,Copiloto,47
+1,50,Tripulante de Cabina,
+8,56,Piloto,15
+22,130,Tripulante de Cabina,
+17,89,Copiloto,28
+12,127,Tripulante de Cabina,
+31,23,Piloto,50
+21,38,Piloto,51
+8,67,Piloto,45
+18,81,Tripulante de Cabina,
+16,10,Tripulante de Cabina,
+34,106,Copiloto,41
+38,123,Piloto,31
+59,74,Piloto,17
+5,101,Tripulante de Cabina,
+21,54,Piloto,22
+4,32,Tripulante de Cabina,
+8,12,Piloto,15
+59,57,Copiloto,48
+24,95,Copiloto,35
+53,38,Paramedico,
+42,115,Tripulante de Cabina,
+4,98,Tripulante de Cabina,
+25,141,Copiloto,36
+5,40,Tripulante de Cabina,
+11,134,Tripulante de Cabina,
+2,138,Tripulante de Cabina,
+8,6,Copiloto,15
+25,142,Piloto,47
+42,19,Tripulante de Cabina,
+0,143,Copiloto,37
+58,68,Tripulante de Cabina,
+8,131,Piloto,45
+31,37,Copiloto,50
+8,60,Copiloto,45
+34,6,Piloto,41
+25,142,Piloto,47
+12,7,Tripulante de Cabina,
+17,79,Piloto,28
+59,126,Copiloto,48
+27,17,Paramedico,
+15,44,Piloto,46
+31,37,Copiloto,50
+58,1,Tripulante de Cabina,
+59,123,Copiloto,48
+34,34,Piloto,41
+8,56,Piloto,45
+12,3,Tripulante de Cabina,
+59,52,Copiloto,17
+37,105,Copiloto,25
+59,123,Copiloto,48
+20,110,Paramedico,
+38,74,Copiloto,40
+38,99,Piloto              ,40
+12,61,Tripulante de Cabina,
+19,10,Tripulante de Cabina,
+43,127,Paramedico,
+37,82,Piloto,25
+21,135,Piloto,51
+46,50,Tripulante de Cabina,
+25,58,Copiloto,47
+21,140,Piloto,22
+8,110,Piloto,15
+59,66,Piloto,48
+22,99,Tripulante de Cabina,
+1,6,Tripulante de Cabina,
+8,55,Copiloto,15
+37,63,Piloto,25
+22,99,Tripulante de Cabina,
+8,41,Copiloto,15
+59,4,Copiloto,48
+8,41,Copiloto,15
+22,101,Tripulante de Cabina,
+8,109,Piloto,45
+19,85,Tripulante de Cabina,
+15,77,Copiloto,12
+25,145,Piloto,47
+59,65,Piloto,48
+18,107,Tripulante de Cabina,
+13,38,Tripulante de Cabina,
+49,139,Paramedico,
+9,65,Copiloto,29
+34,108,Copiloto,2
+34,121,Copiloto,2
+0,70,Copiloto,37
+50,85,Paramedico,
+8,60,Copiloto,45
+8,6,Copiloto,45
+59,117,Copiloto,17
+25,33,Piloto,47
+37,94,Piloto,25
+17,120,Copiloto,28
+47,111,Paramedico,
+8,144,Copiloto,45
+51,138,Tripulante de Cabina,
+34,47,Piloto,41
+31,85,Piloto,50
+21,135,Piloto,22
+8,0,Piloto,45
+45,123,Paramedico,
+16,12,Tripulante de Cabina,
+17,90,Copiloto,28
+16,112,Tripulante de Cabina,
+59,1,Copiloto,48
+59,2,Piloto,48
+37,79,Copiloto,25
+22,108,Tripulante de Cabina,
+37,79,Copiloto,25
+25,37,Piloto,47
+59,1,Copiloto,17
+59,59,Copiloto,48
+37,113,Piloto,25
+37,4,Piloto,25
+59,86,Copiloto,48
+23,24,Copiloto,49
+54,132,Piloto,0
+59,35,Copiloto,48
+40,88,Paramedico,
+8,87,Copiloto,15
+37,113,Piloto,25
+59,48,Piloto,48
+13,20,Tripulante de Cabina,
+49,99,Paramedico,
+15,130,Piloto,12
+8,76,Copiloto,45
+25,29,Piloto,47
+22,36,Tripulante de Cabina,
+58,39,Tripulante de Cabina,
+59,117,Copiloto,17
+59,126,Copiloto,17
+34,47,Piloto,2
+25,119,Copiloto,36
+56,124,Tripulante de Cabina,
+40,39,Paramedico,
+21,61,Piloto,22
+8,12,Piloto,15
+59,53,Piloto,17
+1,34,Tripulante de Cabina,
+25,147,Copiloto,36
+59,73,Copiloto,17
+22,110,Tripulante de Cabina,
+22,73,Tripulante de Cabina,
+42,24,Tripulante de Cabina,
+46,133,Tripulante de Cabina,
+31,26,Copiloto,50
+5,30,Tripulante de Cabina,
+41,50,Piloto,19
+14,121,Tripulante de Cabina,
+24,58,Piloto,35
+7,133,Copiloto,7
+15,131,Copiloto,46
+21,98,Copiloto,22
+59,98,Piloto,17
+8,144,Copiloto,15
+8,64,Copiloto,15
+59,2,Piloto,48
+21,98,Copiloto,22
+53,91,Paramedico,
+58,17,Tripulante de Cabina,
+59,20,Copiloto,48
+8,142,Copiloto,15
+59,39,Piloto,48
+39,126,Tripulante de Cabina,
+56,108,Tripulante de Cabina,
+8,88,Copiloto,45
+59,108,Piloto,48
+0,75,Copiloto,37
+2,124,Tripulante de Cabina,
+2,48,Tripulante de Cabina,
+59,86,Copiloto,17
+59,3,Copiloto,48
+59,52,Copiloto,17
+59,66,Piloto,17
+16,125,Tripulante de Cabina,
+34,102,Copiloto,41
+37,15,Piloto,25
+34,102,Copiloto,2
+7,133,Copiloto,7
+51,38,Tripulante de Cabina,
+59,73,Copiloto,48
+58,23,Tripulante de Cabina,
+27,101,Paramedico,
+7,54,Copiloto,7
+5,141,Tripulante de Cabina,
+53,56,Paramedico,
+7,8,Piloto,7
+50,2,Paramedico,
+59,52,Copiloto,48
+8,64,Copiloto,15
+14,90,Tripulante de Cabina,
+8,0,Piloto,45
+34,109,Copiloto,2
+48,9,Tripulante de Cabina,
+7,68,Piloto,7
+4,32,Tripulante de Cabina,
+59,17,Piloto,17
+11,132,Tripulante de Cabina,
+25,37,Piloto,47
+7,19,Piloto,7
+12,9,Tripulante de Cabina,
+25,80,Piloto,36
+22,74,Tripulante de Cabina,
+21,32,Copiloto,22
+23,44,Copiloto,49
+30,143,Paramedico,
+34,42,Piloto,41
+25,128,Piloto,36
+54,100,Piloto,0
+25,144,Piloto,36
+59,29,Copiloto,17
+59,4,Copiloto,17
+59,108,Piloto,48
+8,88,Copiloto,15
+59,1,Copiloto,48
+5,50,Tripulante de Cabina,
+51,39,Tripulante de Cabina,
+23,22,Piloto,49
+34,106,Copiloto,2
+58,103,Tripulante de Cabina,
+47,129,Paramedico,
+59,129,Copiloto,48
+35,93,Paramedico,
+25,33,Piloto,47
+2,46,Tripulante de Cabina,
+59,111,Piloto,48
+25,91,Piloto,36
+22,73,Tripulante de Cabina,
+31,85,Piloto,50
+53,128,Paramedico,
+4,111,Tripulante de Cabina,
+59,31,Piloto,48
+59,117,Copiloto,48
+25,148,Copiloto,47
+34,30,Copiloto,2
+25,138,Copiloto,36
+38,121,Piloto,40
+28,9,Tripulante de Cabina,
+22,137,Tripulante de Cabina,
+45,48,Paramedico,
+59,53,Piloto,17
+13,8,Tripulante de Cabina,
+21,61,Piloto,51
+52,28,Paramedico,
+59,53,Piloto,17
+38,90,Piloto,31
+21,56,Copiloto,51
+0,78,Copiloto,37
+56,38,Tripulante de Cabina,
+59,57,Copiloto,48
+27,59,Paramedico,
+12,113,Tripulante de Cabina,
+14,64,Tripulante de Cabina,
+2,136,Tripulante de Cabina,
+23,130,Copiloto,49
+39,71,Tripulante de Cabina,
+34,109,Copiloto,41
+58,99,Tripulante de Cabina,
+25,72,Piloto,36
+30,84,Paramedico,
+15,130,Piloto,46
+2,93,Tripulante de Cabina,
+25,91,Piloto,36
+39,126,Tripulante de Cabina,
+31,105,Piloto,50
+37,4,Piloto,25
+38,123,Piloto,40
+25,147,Copiloto,36
+10,78,Piloto,11
+40,25,Paramedico,
+7,61,Copiloto,7
+41,20,Piloto,19
+8,131,Piloto,15
+21,115,Piloto,51
+59,1,Copiloto,17
+35,104,Paramedico,
+0,40,Copiloto,37
+23,24,Copiloto,49
+10,0,Copiloto,11
+0,148,Piloto,37
+24,125,Piloto,35
+34,50,Copiloto,41
+59,140,Copiloto,17
+24,21,Piloto,35
+59,117,Copiloto,17
+23,92,Piloto,49
+59,17,Piloto,17
+13,63,Tripulante de Cabina,
+15,77,Copiloto,46
+15,46,Piloto,12
+21,140,Piloto,51
+25,58,Copiloto,47
+25,141,Copiloto,47
+9,65,Copiloto,29
+9,27,Piloto,29
+37,16,Piloto,25
+56,111,Tripulante de Cabina,
+59,13,Piloto,17
+59,17,Piloto,48
+42,130,Tripulante de Cabina,
+59,117,Copiloto,48
+7,133,Copiloto,7
+24,112,Piloto,35
+34,73,Piloto,41
+20,63,Paramedico,
+59,99,Copiloto,17
+58,29,Tripulante de Cabina,
+23,97,Piloto,49
+43,119,Paramedico,
+7,61,Copiloto,7
+42,51,Tripulante de Cabina,
+13,139,Tripulante de Cabina,
+8,45,Piloto,15
+47,76,Paramedico,
+34,106,Copiloto,2
+46,30,Tripulante de Cabina,
+25,148,Copiloto,47
+5,136,Tripulante de Cabina,
+26,96,Tripulante de Cabina,
+24,146,Copiloto,35
+8,131,Piloto,15
+8,87,Copiloto,45
+24,84,Piloto,35
+59,20,Copiloto,17
+35,36,Paramedico,
+11,132,Tripulante de Cabina,
+8,60,Copiloto,45
+59,53,Piloto,17
+23,48,Copiloto,49
+15,44,Piloto,46
+31,69,Copiloto,50
+25,29,Piloto,36
+23,122,Piloto,49
+37,67,Copiloto,25
+59,31,Piloto,17
+59,2,Piloto,17
+33,31,Tripulante de Cabina,
+25,112,Copiloto,47
+18,143,Tripulante de Cabina,
+28,132,Tripulante de Cabina,
+5,75,Tripulante de Cabina,
+30,6,Paramedico,
+8,132,Copiloto,15
+8,107,Copiloto,45
+8,45,Piloto,45
+56,139,Tripulante de Cabina,
+54,11,Copiloto,0
+25,137,Piloto,36
+0,23,Copiloto,37
+41,104,Copiloto,19
+59,129,Copiloto,48
+7,141,Piloto,7
+59,53,Piloto,48
+25,21,Copiloto,47
+4,38,Tripulante de Cabina,
+8,144,Copiloto,15
+7,13,Copiloto,7
+54,43,Copiloto,0
+56,111,Tripulante de Cabina,
+20,3,Paramedico,
+59,59,Copiloto,48
+13,139,Tripulante de Cabina,
+23,96,Copiloto,49
+34,108,Copiloto,41
+22,138,Tripulante de Cabina,
+37,32,Piloto,25
+59,52,Copiloto,48
+24,84,Piloto,35
+22,108,Tripulante de Cabina,
+28,30,Tripulante de Cabina,
+53,27,Paramedico,
+8,100,Copiloto,45
+22,8,Tripulante de Cabina,
+8,131,Piloto,45
+8,60,Copiloto,15
+8,55,Copiloto,15
+0,49,Copiloto,37
+49,30,Paramedico,
+31,105,Piloto,50
+22,74,Tripulante de Cabina,
+25,137,Piloto,47
+59,66,Piloto,48
+22,0,Tripulante de Cabina,
+0,49,Copiloto,37
+25,128,Piloto,36
+43,1,Paramedico,
+58,99,Tripulante de Cabina,
+34,30,Copiloto,41
+59,9,Copiloto,48
+8,132,Copiloto,45
+31,26,Copiloto,50
+0,146,Piloto,37
+19,37,Tripulante de Cabina,
+31,127,Piloto,50
+56,140,Tripulante de Cabina,
+17,89,Copiloto,28
+40,96,Paramedico,
+8,80,Copiloto,15
+31,105,Piloto,50
+46,121,Tripulante de Cabina,
+59,99,Copiloto,17
+59,20,Copiloto,17
+59,74,Piloto,17
+41,93,Piloto,19
+25,119,Copiloto,36
+25,33,Piloto,47
+59,51,Piloto,48
+21,136,Piloto,51
+51,48,Tripulante de Cabina,
+59,140,Copiloto,48
+59,108,Piloto,48
+40,88,Paramedico,
+59,15,Copiloto,48
+2,96,Tripulante de Cabina,
+59,111,Piloto,48
+18,55,Tripulante de Cabina,
+5,5,Tripulante de Cabina,
+56,131,Tripulante de Cabina,
+25,55,Piloto,36
+8,131,Piloto,45
+22,8,Tripulante de Cabina,
+25,8,Copiloto,36
+59,65,Piloto,17
+59,111,Piloto,48
+15,130,Piloto,12
+24,143,Piloto,35
+8,45,Piloto,15
+8,41,Copiloto,45
+8,64,Copiloto,45
+8,80,Copiloto,15
+19,114,Tripulante de Cabina,
+59,39,Piloto,48
+59,117,Copiloto,48
+59,98,Piloto,17
+50,37,Paramedico,
+8,76,Copiloto,15
+59,73,Copiloto,48
+4,48,Tripulante de Cabina,
+59,86,Copiloto,48
+40,88,Paramedico,
+8,41,Copiloto,15
+25,72,Piloto,47
+8,41,Copiloto,15
+31,135,Copiloto,50
+8,107,Copiloto,45
+8,88,Copiloto,15
+8,109,Piloto,45
+54,49,Piloto,0
+34,108,Copiloto,41
+34,121,Copiloto,2
+32,147,Paramedico,
+19,87,Tripulante de Cabina,
+7,61,Copiloto,7
+58,33,Tripulante de Cabina,
+23,122,Piloto,49
+45,118,Paramedico,
+8,60,Copiloto,15
+59,48,Piloto,17
+34,30,Copiloto,41
+37,2,Copiloto,25
+24,63,Copiloto,35
+21,28,Piloto,51
+8,110,Piloto,15
+47,77,Paramedico,
+34,89,Piloto,41
+20,63,Paramedico,
+23,14,Piloto,49
+15,131,Copiloto,12
+20,7,Paramedico,
+52,9,Paramedico,
+59,101,Copiloto,48
+7,8,Piloto,7
+0,78,Copiloto,37
+10,76,Piloto,11
+37,68,Copiloto,25
+54,113,Copiloto,0
+31,39,Copiloto,50
+58,128,Tripulante de Cabina,
+20,20,Paramedico,
+59,140,Copiloto,48
+11,122,Tripulante de Cabina,
+21,139,Copiloto,51
+59,15,Copiloto,17
+0,116,Copiloto,37
+12,7,Tripulante de Cabina,
+25,21,Copiloto,36
+56,94,Tripulante de Cabina,
+7,87,Piloto,7
+41,34,Copiloto,19
+39,71,Tripulante de Cabina,
+59,73,Copiloto,17
+8,6,Copiloto,15
+2,93,Tripulante de Cabina,
+10,69,Piloto,11
+24,7,Copiloto,35
+35,32,Paramedico,
+2,121,Tripulante de Cabina,
+38,77,Piloto,31
+0,22,Copiloto,37
+53,65,Paramedico,
+58,86,Tripulante de Cabina,
+8,60,Copiloto,45
+2,29,Tripulante de Cabina,
+48,101,Tripulante de Cabina,
+41,114,Copiloto,19
+53,133,Paramedico,
+47,131,Paramedico,
+16,123,Tripulante de Cabina,
+13,38,Tripulante de Cabina,
+59,101,Copiloto,17
+56,136,Tripulante de Cabina,
+0,72,Copiloto,37
+49,45,Paramedico,
+22,28,Tripulante de Cabina,
+13,107,Tripulante de Cabina,
+8,67,Piloto,15
+41,30,Piloto,19
+25,125,Copiloto,47
+51,115,Tripulante de Cabina,
+59,74,Piloto,48
+34,50,Copiloto,41
+25,80,Piloto,47
+21,43,Piloto,22
+59,1,Copiloto,48
+58,122,Tripulante de Cabina,
+59,15,Copiloto,17
+59,126,Copiloto,17
+8,87,Copiloto,15
+2,33,Tripulante de Cabina,
+34,6,Piloto,41
+59,65,Piloto,48
+0,60,Piloto,37
+7,40,Piloto,7
+59,39,Piloto,17
+35,31,Paramedico,
+21,56,Copiloto,22
+21,111,Copiloto,51
+2,124,Tripulante de Cabina,
+48,9,Tripulante de Cabina,
+34,89,Piloto,2
+25,55,Piloto,47
+5,13,Tripulante de Cabina,
+8,110,Piloto,15
+25,55,Piloto,36
+47,90,Paramedico,
+21,139,Copiloto,22
+19,34,Tripulante de Cabina,
+2,104,Tripulante de Cabina,
+25,119,Copiloto,36
+25,91,Piloto,36
+8,45,Piloto,45
+25,147,Copiloto,36
+38,77,Piloto,31
+9,33,Copiloto,29
+0,116,Copiloto,37
+7,128,Copiloto,7
+59,51,Piloto,48
+8,12,Piloto,15
+21,84,Copiloto,22
+15,134,Piloto,46
+53,115,Paramedico,
+31,14,Copiloto,50
+59,86,Copiloto,17
+19,87,Tripulante de Cabina,
+35,104,Paramedico,
+56,1,Tripulante de Cabina,
+28,52,Tripulante de Cabina,
+47,0,Paramedico,
+25,81,Piloto,47
+8,60,Copiloto,15
+59,2,Piloto,48
+52,54,Paramedico,
+37,68,Copiloto,25
+57,,,
+52,9,Paramedico,
+37,68,Copiloto,25
+46,139,Tripulante de Cabina,
+22,73,Tripulante de Cabina,
+37,105,Copiloto,25
+8,55,Copiloto,15
+52,136,Paramedico,
+37,68,Copiloto,25
+59,1,Copiloto,48
+23,48,Copiloto,49
+15,130,Piloto,46
+51,54,Tripulante de Cabina,
+25,147,Copiloto,47
+52,53,Paramedico,
+37,94,Piloto,25
+21,36,Copiloto,51
+46,8,Tripulante de Cabina,
+8,55,Copiloto,45
+24,104,Piloto,35
+22,139,Tripulante de Cabina,
+0,46,Copiloto,37
+53,61,Paramedico,
+24,85,Copiloto,35
+8,107,Copiloto,45
+21,53,Copiloto,51
+25,139,Piloto,47
+22,8,Tripulante de Cabina,
+37,16,Piloto,25
+21,135,Piloto,51
+25,58,Copiloto,36
+31,9,Piloto,50
+28,79,Tripulante de Cabina,
+10,66,Copiloto,11
+56,66,Tripulante de Cabina,
+25,37,Piloto,47
+59,74,Piloto,48
+40,122,Paramedico,
+56,131,Tripulante de Cabina,
+2,96,Tripulante de Cabina,
+24,84,Piloto,35
+0,59,Piloto,37
+15,134,Piloto,12
+59,52,Copiloto,17
+19,10,Tripulante de Cabina,
+8,6,Copiloto,15
+2,4,Tripulante de Cabina,
+41,124,Piloto,19
+8,80,Copiloto,15
+59,59,Copiloto,48
+39,42,Tripulante de Cabina,
+0,46,Copiloto,37
+21,84,Copiloto,51
+8,60,Copiloto,45
+34,47,Piloto,41
+59,65,Piloto,17
+32,134,Paramedico,
+54,115,Copiloto,0
+54,83,Piloto,0
+2,93,Tripulante de Cabina,
+59,123,Copiloto,17
+37,27,Copiloto,25
+59,66,Piloto,17
+59,129,Copiloto,17
+22,137,Tripulante de Cabina,
+59,140,Copiloto,48
+8,119,Piloto,15
+54,115,Copiloto,0
+52,41,Paramedico,
+30,112,Paramedico,
+24,125,Piloto,35
+59,4,Copiloto,48
+25,141,Copiloto,36
+37,94,Piloto,25
+25,21,Copiloto,47
+17,114,Piloto,28
+2,34,Tripulante de Cabina,
+59,86,Copiloto,48
+37,7,Piloto,25
+38,117,Piloto,40
+15,24,Piloto,12
+38,117,Piloto,31
+59,48,Piloto,17
+33,1,Tripulante de Cabina,
+33,33,Tripulante de Cabina,
+25,58,Copiloto,36
+37,18,Piloto,25
+5,108,Tripulante de Cabina,
+30,112,Paramedico,
+8,12,Piloto,45
+13,146,Tripulante de Cabina,
+13,20,Tripulante de Cabina,
+40,11,Paramedico,
+34,109,Copiloto,2
+24,146,Copiloto,35
+30,107,Paramedico,
+25,95,Piloto,36
+8,12,Piloto,45
+50,29,Paramedico,
+10,12,Copiloto,11
+56,98,Tripulante de Cabina,
+53,43,Paramedico,
+59,51,Piloto,48
+8,64,Copiloto,45
+8,119,Piloto,15
+56,47,Tripulante de Cabina,
+34,42,Piloto,41
+16,10,Tripulante de Cabina,
+24,146,Copiloto,35
+58,103,Tripulante de Cabina,
+31,37,Copiloto,50
+56,94,Tripulante de Cabina,
+25,103,Copiloto,36
+10,12,Copiloto,11
+58,5,Tripulante de Cabina,
+21,38,Piloto,51
+54,49,Piloto,0
+23,118,Copiloto,49
+22,77,Tripulante de Cabina,
+32,145,Paramedico,
+54,83,Piloto,0
+31,9,Piloto,50
+59,35,Copiloto,17
+5,30,Tripulante de Cabina,
+17,41,Piloto,28
+28,134,Tripulante de Cabina,
+21,124,Copiloto,22
+1,34,Tripulante de Cabina,
+34,89,Piloto,41
+41,104,Copiloto,19
+8,76,Copiloto,15
+58,17,Tripulante de Cabina,
+23,118,Copiloto,49
+8,88,Copiloto,15
+56,36,Tripulante de Cabina,
+22,49,Tripulante de Cabina,
+15,46,Piloto,46
+21,124,Copiloto,51
+5,38,Tripulante de Cabina,
+43,87,Paramedico,
+5,138,Tripulante de Cabina,
+13,113,Tripulante de Cabina,
+59,17,Piloto,48
+49,8,Paramedico,
+46,133,Tripulante de Cabina,
+42,44,Tripulante de Cabina,
+47,98,Paramedico,
+34,102,Copiloto,2
+59,73,Copiloto,17
+33,31,Tripulante de Cabina,
+28,88,Tripulante de Cabina,
+8,45,Piloto,15
+34,121,Copiloto,2
+24,143,Piloto,35
+58,29,Tripulante de Cabina,
+59,29,Copiloto,17
+59,52,Copiloto,17
+8,45,Piloto,15
+59,17,Piloto,17
+41,20,Piloto,19
+59,13,Piloto,17
+21,54,Piloto,22
+59,129,Copiloto,17
+49,8,Paramedico,
+9,65,Copiloto,29
+19,135,Tripulante de Cabina,
+22,38,Tripulante de Cabina,
+4,115,Tripulante de Cabina,
+9,42,Copiloto,29
+48,35,Tripulante de Cabina,
+56,81,Tripulante de Cabina,
+25,139,Piloto,36
+8,132,Copiloto,45
+21,38,Piloto,22
+50,37,Paramedico,
+59,48,Piloto,48
+59,53,Piloto,17
+22,24,Tripulante de Cabina,
+8,55,Copiloto,15
+19,125,Tripulante de Cabina,
+45,48,Paramedico,
+47,47,Paramedico,
+59,39,Piloto,17
+8,110,Piloto,45
+2,141,Tripulante de Cabina,
+56,0,Tripulante de Cabina,
+59,17,Piloto,17
+56,38,Tripulante de Cabina,
+59,31,Piloto,17
+59,52,Copiloto,17
+56,111,Tripulante de Cabina,
+8,76,Copiloto,45
+25,80,Piloto,36
+59,4,Copiloto,48
+18,148,Tripulante de Cabina,
+34,73,Piloto,2
+6,,,
+48,97,Tripulante de Cabina,
+18,145,Tripulante de Cabina,
+28,88,Tripulante de Cabina,
+34,42,Piloto,2
+8,67,Piloto,45
+49,34,Paramedico,
+25,33,Piloto,36
+2,2,Tripulante de Cabina,
+59,51,Piloto,17
+37,81,Copiloto,25
+22,49,Tripulante de Cabina,
+59,1,Copiloto,48
+21,32,Copiloto,51
+34,106,Copiloto,2
+37,94,Piloto,25
+25,8,Copiloto,36
+8,80,Copiloto,15
+59,101,Copiloto,48
+8,120,Piloto,15
+52,10,Paramedico,
+26,97,Tripulante de Cabina,
+7,87,Piloto,7
+21,61,Piloto,51
+17,41,Piloto,28
+59,98,Piloto,48
+25,33,Piloto,47
+59,74,Piloto,17
+25,21,Copiloto,47
+22,38,Tripulante de Cabina,
+51,139,Tripulante de Cabina,
+8,119,Piloto,15
+59,35,Copiloto,17
+49,138,Paramedico,
+19,135,Tripulante de Cabina,
+4,129,Tripulante de Cabina,
+25,29,Piloto,47
+58,70,Tripulante de Cabina,
+15,131,Copiloto,46
+0,107,Piloto,37
+13,138,Tripulante de Cabina,
+21,36,Copiloto,22
+34,47,Piloto,2
+30,64,Paramedico,
+0,78,Copiloto,37
+59,1,Copiloto,17
+56,36,Tripulante de Cabina,
+8,87,Copiloto,45
+59,1,Copiloto,48
+2,121,Tripulante de Cabina,
+8,144,Copiloto,15
+25,112,Copiloto,47
+0,60,Piloto,37
+25,37,Piloto,36
+46,6,Tripulante de Cabina,
+7,103,Piloto,7
+0,46,Copiloto,37
+59,29,Copiloto,17
+25,29,Piloto,36
+31,97,Copiloto,50
+21,111,Copiloto,22
+22,131,Tripulante de Cabina,
+22,89,Tripulante de Cabina,
+49,99,Paramedico,
+8,41,Copiloto,15
+53,81,Paramedico,
+24,21,Piloto,35
+34,102,Copiloto,41
+51,97,Tripulante de Cabina,
+11,83,Tripulante de Cabina,
+59,31,Piloto,48
+34,109,Copiloto,41
+21,56,Copiloto,51
+59,29,Copiloto,17
+56,109,Tripulante de Cabina,
+30,55,Paramedico,
+59,17,Piloto,17
+22,89,Tripulante de Cabina,
+8,64,Copiloto,15
+38,77,Piloto,40
+42,24,Tripulante de Cabina,
+59,117,Copiloto,17
+9,106,Piloto,29
+41,102,Piloto,19
+8,88,Copiloto,45
+59,98,Piloto,17
+56,104,Tripulante de Cabina,
+58,29,Tripulante de Cabina,
+54,100,Piloto,0
+50,5,Paramedico,
+59,39,Piloto,48
+5,101,Tripulante de Cabina,
+2,141,Tripulante de Cabina,
+50,105,Paramedico,
+21,32,Copiloto,22
+31,97,Copiloto,50
+28,9,Tripulante de Cabina,
+54,113,Copiloto,0
+38,45,Copiloto,31
+22,139,Tripulante de Cabina,
+8,6,Copiloto,15
+59,17,Piloto,17
+8,88,Copiloto,15
+37,7,Piloto,25
+59,2,Piloto,48
+5,30,Tripulante de Cabina,
+20,24,Paramedico,
+8,55,Copiloto,45
+21,53,Copiloto,22
+59,57,Copiloto,48
+27,75,Paramedico,
+37,35,Piloto,25
+23,52,Piloto,49
+2,96,Tripulante de Cabina,
+28,134,Tripulante de Cabina,
+18,68,Tripulante de Cabina,
+15,44,Piloto,12
+21,135,Piloto,22
+25,81,Piloto,47
+59,140,Copiloto,17
+13,3,Tripulante de Cabina,
+25,38,Copiloto,36
+59,108,Piloto,48
+22,109,Tripulante de Cabina,
+59,2,Piloto,48
+8,142,Copiloto,15
+8,132,Copiloto,45
+7,1,Piloto,7
+13,147,Tripulante de Cabina,
+8,109,Piloto,15
+18,55,Tripulante de Cabina,
+25,141,Copiloto,36
+25,94,Copiloto,36
+8,110,Piloto,45
+8,76,Copiloto,15
+17,114,Piloto,28
+51,57,Tripulante de Cabina,
+59,101,Copiloto,48
+59,66,Piloto,48
+34,121,Copiloto,41
+40,25,Paramedico,
+25,103,Copiloto,47
+47,76,Paramedico,
+37,68,Copiloto,25
+47,0,Paramedico,
+25,95,Piloto,36
+45,52,Paramedico,
+0,40,Copiloto,37
+54,101,Piloto,0
+8,55,Copiloto,45
+47,76,Paramedico,
+8,100,Copiloto,45
+51,57,Tripulante de Cabina,
+8,142,Copiloto,45
+59,52,Copiloto,48
+59,140,Copiloto,48
+58,5,Tripulante de Cabina,
+2,33,Tripulante de Cabina,
+14,81,Tripulante de Cabina,
+37,81,Copiloto,25
+2,45,Tripulante de Cabina,
+59,17,Piloto,48
+59,48,Piloto,17
+0,46,Copiloto,37
+21,43,Piloto,51
+8,41,Copiloto,15
+56,1,Tripulante de Cabina,
+47,109,Paramedico,
+54,75,Piloto,0
+4,9,Tripulante de Cabina,
+54,49,Piloto,0
+59,53,Piloto,48
+31,10,Piloto,50
+59,98,Piloto,17
+51,139,Tripulante de Cabina,
+8,142,Copiloto,45
+59,129,Copiloto,48
+21,133,Piloto,51
+8,0,Piloto,45
+59,111,Piloto,17
+56,140,Tripulante de Cabina,
+58,70,Tripulante de Cabina,
+31,10,Piloto,50
+59,129,Copiloto,48
+59,35,Copiloto,48
+14,121,Tripulante de Cabina,
+21,32,Copiloto,22
+8,6,Copiloto,45
+32,144,Paramedico,
+19,69,Tripulante de Cabina,
+22,74,Tripulante de Cabina,
+59,17,Piloto,48
+25,128,Piloto,36
+15,46,Piloto,46
+8,142,Copiloto,15
+22,99,Tripulante de Cabina,
+55,,,
+59,4,Copiloto,48
+34,50,Copiloto,41
+25,127,Copiloto,47
+4,139,Tripulante de Cabina,
+19,69,Tripulante de Cabina,
+22,90,Tripulante de Cabina,
+34,109,Copiloto,41
+46,138,Tripulante de Cabina,
+11,83,Tripulante de Cabina,
+17,41,Piloto,28
+22,108,Tripulante de Cabina,
+34,108,Copiloto,41
+59,31,Piloto,17
+25,142,Piloto,47
+25,103,Copiloto,47
+11,11,Tripulante de Cabina,
+59,101,Copiloto,17
+22,109,Tripulante de Cabina,
+59,74,Piloto,17
+59,108,Piloto,48
+8,109,Piloto,15
+25,95,Piloto,47
+47,77,Paramedico,
+38,64,Piloto,40
+45,74,Paramedico,
+50,29,Paramedico,
+22,139,Tripulante de Cabina,
+51,39,Tripulante de Cabina,
+59,99,Copiloto,17
+59,126,Copiloto,48
+56,94,Tripulante de Cabina,
+15,24,Piloto,12
+40,122,Paramedico,
+34,121,Copiloto,41
+34,42,Piloto,41
+59,3,Copiloto,17
+34,6,Piloto,2
+21,53,Copiloto,51
+46,137,Tripulante de Cabina,
+34,73,Piloto,2
+58,87,Tripulante de Cabina,
+59,52,Copiloto,17
+58,119,Tripulante de Cabina,
+19,119,Tripulante de Cabina,
+0,19,Copiloto,37
+59,15,Copiloto,17
+25,119,Copiloto,47
+2,96,Tripulante de Cabina,
+59,51,Piloto,48
+59,65,Piloto,48
+45,92,Paramedico,
+41,20,Piloto,19
+9,31,Copiloto,29
+8,56,Piloto,15
+30,143,Paramedico,
+8,55,Copiloto,15
+59,9,Copiloto,48
+52,53,Paramedico,
+8,110,Piloto,15
+50,68,Paramedico,
+37,7,Piloto,25
+53,61,Paramedico,
+59,13,Piloto,17
+50,68,Paramedico,
+38,121,Piloto,40
+21,84,Copiloto,22
+14,29,Tripulante de Cabina,
+31,37,Copiloto,50
+21,43,Piloto,22
+8,80,Copiloto,45
+59,117,Copiloto,17
+59,52,Copiloto,48
+34,42,Piloto,41
+15,77,Copiloto,46
+25,38,Copiloto,36
+42,115,Tripulante de Cabina,
+31,17,Copiloto,50
+40,82,Paramedico,
+59,31,Piloto,17
+40,82,Paramedico,
+59,74,Piloto,48
+38,64,Piloto,40
+11,11,Tripulante de Cabina,
+17,118,Piloto,28
+27,40,Paramedico,
+31,18,Copiloto,50
+31,16,Copiloto,50
+52,140,Paramedico,
+4,2,Tripulante de Cabina,
+22,8,Tripulante de Cabina,
+34,50,Copiloto,2
+40,25,Paramedico,
+53,133,Paramedico,
+8,120,Piloto,45
+59,99,Copiloto,48
+52,18,Paramedico,
+59,98,Piloto,17
+32,79,Paramedico,
+23,22,Piloto,49
+34,73,Piloto,41
+32,148,Paramedico,
+21,140,Piloto,51
+34,6,Piloto,2
+31,23,Piloto,50
+25,81,Piloto,47
+31,26,Copiloto,50
+48,101,Tripulante de Cabina,
+54,113,Copiloto,0
+26,35,Tripulante de Cabina,
+8,64,Copiloto,15
+59,74,Piloto,48
+25,72,Piloto,36
+41,34,Copiloto,19
+8,64,Copiloto,45
+46,115,Tripulante de Cabina,
+5,136,Tripulante de Cabina,
+25,55,Piloto,47
+21,53,Copiloto,51
+22,108,Tripulante de Cabina,
+8,107,Copiloto,15
+8,76,Copiloto,45
+22,59,Tripulante de Cabina,
+22,59,Tripulante de Cabina,
+41,102,Piloto,19
+8,131,Piloto,45
+58,128,Tripulante de Cabina,
+8,107,Copiloto,15
+59,140,Copiloto,48
+30,135,Paramedico,
+56,36,Tripulante de Cabina,
+22,101,Tripulante de Cabina,
+51,38,Tripulante de Cabina,
+0,23,Copiloto,37
+22,139,Tripulante de Cabina,
+8,45,Piloto,45
+17,36,Piloto,28
+40,100,Paramedico,
+59,48,Piloto,48
+59,123,Copiloto,48
+12,80,Tripulante de Cabina,
+8,100,Copiloto,45
+51,14,Tripulante de Cabina,
+8,119,Piloto,15
+59,1,Copiloto,17
+8,6,Copiloto,15
+34,102,Copiloto,41
+8,6,Copiloto,15
+39,106,Tripulante de Cabina,
+0,59,Piloto,37
+3,,,32
+7,54,Copiloto,7
+59,140,Copiloto,17
+7,51,Copiloto,7
+58,80,Tripulante de Cabina,
+37,2,Copiloto,25
+41,10,Copiloto,19
+31,39,Copiloto,50
+34,50,Copiloto,41
+37,91,Copiloto,25
+25,144,Piloto,47
+2,2,Tripulante de Cabina,
+18,76,Tripulante de Cabina,
+59,17,Piloto,17
+59,74,Piloto,48
+21,61,Piloto,22
+38,5,Copiloto,31
+59,1,Copiloto,48
+15,24,Piloto,46
+23,22,Piloto,49
+40,22,Paramedico,
+50,68,Paramedico,
+5,19,Tripulante de Cabina,
+56,140,Tripulante de Cabina,
+56,0,Tripulante de Cabina,
+20,7,Paramedico,
+11,132,Tripulante de Cabina,
+28,67,Tripulante de Cabina,
+8,6,Copiloto,45
+59,39,Piloto,48
+37,67,Copiloto,25
+59,111,Piloto,17
+43,103,Paramedico,
+15,88,Piloto,46
+59,66,Piloto,17
+34,6,Piloto,2
+37,82,Piloto,25
+56,136,Tripulante de Cabina,
+21,43,Piloto,22
+25,142,Piloto,47
+41,104,Copiloto,19
+14,29,Tripulante de Cabina,
+25,81,Piloto,36
+21,56,Copiloto,22
+59,86,Copiloto,17
+40,100,Paramedico,
+59,123,Copiloto,17
+59,111,Piloto,17
+7,141,Piloto,7
+8,41,Copiloto,45
+25,8,Copiloto,36
+59,3,Copiloto,48
+34,34,Piloto,41
+12,127,Tripulante de Cabina,
+59,35,Copiloto,17
+28,52,Tripulante de Cabina,
+2,48,Tripulante de Cabina,
+25,127,Copiloto,36
+8,110,Piloto,15
+30,21,Paramedico,
+37,4,Piloto,25
+19,37,Tripulante de Cabina,
+22,90,Tripulante de Cabina,
+50,5,Paramedico,
+0,46,Copiloto,37
+15,88,Piloto,12
+14,64,Tripulante de Cabina,
+56,66,Tripulante de Cabina,
+0,72,Copiloto,37
+25,127,Copiloto,47
+21,115,Piloto,51
+21,53,Copiloto,22
+22,49,Tripulante de Cabina,
+34,47,Piloto,41
+8,100,Copiloto,15
+20,60,Paramedico,
+59,98,Piloto,48
+8,6,Copiloto,15
+59,99,Copiloto,48
+8,132,Copiloto,45
+25,125,Copiloto,47
+8,12,Piloto,15
+25,95,Piloto,47
+8,76,Copiloto,15
+59,15,Copiloto,17
+59,31,Piloto,48
+21,28,Piloto,22
+0,146,Piloto,37
+34,106,Copiloto,2
+21,28,Piloto,51
+38,121,Piloto,31
+41,25,Piloto,19
+4,9,Tripulante de Cabina,
+37,79,Copiloto,25
+8,107,Copiloto,15
+58,119,Tripulante de Cabina,
+58,23,Tripulante de Cabina,
+16,84,Tripulante de Cabina,
+50,105,Paramedico,
+8,120,Piloto,15
+37,18,Piloto,25
+59,66,Piloto,17
+25,33,Piloto,36
+15,70,Piloto,46
+32,147,Paramedico,
+14,103,Tripulante de Cabina,
+22,130,Tripulante de Cabina,
+51,137,Tripulante de Cabina,
+23,48,Copiloto,49
+59,29,Copiloto,48
+59,9,Copiloto,48
+25,55,Piloto,47
+15,77,Copiloto,46
+8,64,Copiloto,15
+0,78,Copiloto,37
+37,129,Piloto,25
+59,52,Copiloto,17
+4,139,Tripulante de Cabina,
+0,62,Copiloto,37
+37,2,Copiloto,25
+59,52,Copiloto,48
+8,109,Piloto,15
+59,86,Copiloto,48
+11,62,Tripulante de Cabina,
+2,124,Tripulante de Cabina,
+0,86,Piloto,37
+8,55,Copiloto,45
+38,121,Piloto,40
+35,126,Paramedico,
+59,117,Copiloto,17
+56,139,Tripulante de Cabina,
+2,29,Tripulante de Cabina,
+25,141,Copiloto,36
+54,83,Piloto,0
+32,145,Paramedico,
+25,80,Piloto,47
+59,2,Piloto,48
+59,126,Copiloto,48
+58,33,Tripulante de Cabina,
+41,30,Piloto,19
+15,88,Piloto,46
+9,126,Piloto,29
+22,28,Tripulante de Cabina,
+24,104,Piloto,35
+4,38,Tripulante de Cabina,
+59,126,Copiloto,48
+41,93,Piloto,19
+24,25,Copiloto,35
+23,116,Piloto,49
+59,15,Copiloto,48
+8,76,Copiloto,45
+49,108,Paramedico,
+59,65,Piloto,48
+19,121,Tripulante de Cabina,
+21,56,Copiloto,51
+56,36,Tripulante de Cabina,
+21,54,Piloto,22
+15,24,Piloto,12
+59,74,Piloto,17
+15,134,Piloto,46
+40,82,Paramedico,
+56,104,Tripulante de Cabina,
+47,90,Paramedico,
+17,47,Copiloto,28
+59,13,Piloto,17
+8,87,Copiloto,45
+50,33,Paramedico,
+59,20,Copiloto,48
+24,147,Piloto,35
+56,131,Tripulante de Cabina,
+15,24,Piloto,46
+15,134,Piloto,12
+38,117,Piloto,40
+41,30,Piloto,19
+25,112,Copiloto,47
+22,73,Tripulante de Cabina,
+52,10,Paramedico,
+44,,,
+59,126,Copiloto,17
+8,87,Copiloto,15
+43,119,Paramedico,
+31,127,Piloto,50
+0,116,Copiloto,37
+54,138,Piloto,0
+16,41,Tripulante de Cabina,
+56,27,Tripulante de Cabina,
+59,123,Copiloto,48
+46,28,Tripulante de Cabina,
+59,74,Piloto,17
+20,113,Paramedico,
+59,108,Piloto,17
+51,115,Tripulante de Cabina,
+8,120,Piloto,15
+20,113,Paramedico,
+22,90,Tripulante de Cabina,
+22,77,Tripulante de Cabina,
+38,117,Piloto,31
+17,118,Piloto,28
+40,22,Paramedico,
+2,68,Tripulante de Cabina,
+59,13,Piloto,48
+8,0,Piloto,15
+34,108,Copiloto,2
+59,108,Piloto,17
+37,82,Piloto,25
+59,39,Piloto,17
+1,50,Tripulante de Cabina,
+17,47,Copiloto,28
+53,141,Paramedico,
+5,5,Tripulante de Cabina,
+8,41,Copiloto,45
+13,113,Tripulante de Cabina,
+35,46,Paramedico,
+31,97,Copiloto,50
+37,96,Piloto,25
+30,107,Paramedico,
+0,107,Piloto,37
+8,56,Piloto,45
+8,109,Piloto,45
+8,88,Copiloto,45
+11,57,Tripulante de Cabina,
+59,59,Copiloto,17
+25,21,Copiloto,36
+59,53,Piloto,48
+49,45,Paramedico,
+59,51,Piloto,48
+31,23,Piloto,50
+26,96,Tripulante de Cabina,
+37,15,Piloto,25
+58,23,Tripulante de Cabina,
+12,56,Tripulante de Cabina,
+59,99,Copiloto,17
+25,148,Copiloto,36
+21,36,Copiloto,22
+22,136,Tripulante de Cabina,
+8,119,Piloto,45
+59,66,Piloto,48
+19,125,Tripulante de Cabina,
+52,51,Paramedico,
+28,132,Tripulante de Cabina,
+34,6,Piloto,41
+8,67,Piloto,15
+8,144,Copiloto,45
+37,3,Piloto,25
+15,44,Piloto,12
+58,68,Tripulante de Cabina,
+25,81,Piloto,47
+21,98,Copiloto,22
+7,128,Copiloto,7
+52,51,Paramedico,
+58,70,Tripulante de Cabina,
+17,90,Copiloto,28
+25,139,Piloto,36
+40,122,Paramedico,
+15,77,Copiloto,46
+31,10,Piloto,50
+4,136,Tripulante de Cabina,
+59,29,Copiloto,48
+59,2,Piloto,17
+59,66,Piloto,48
+19,34,Tripulante de Cabina,
+45,118,Paramedico,
+11,134,Tripulante de Cabina,
+41,25,Piloto,19
+37,81,Copiloto,25
+12,80,Tripulante de Cabina,
+31,69,Copiloto,50
+23,92,Piloto,49
+59,9,Copiloto,17
+56,46,Tripulante de Cabina,
+51,22,Tripulante de Cabina,
+21,139,Copiloto,22
+2,68,Tripulante de Cabina,
+25,103,Copiloto,47
+59,51,Piloto,17
+59,48,Piloto,48
+25,29,Piloto,47
+38,74,Copiloto,31
+59,126,Copiloto,48
+4,48,Tripulante de Cabina,
+8,107,Copiloto,15
+14,64,Tripulante de Cabina,
+35,89,Paramedico,
+46,138,Tripulante de Cabina,
+24,93,Copiloto,35
+38,45,Copiloto,40
+8,12,Piloto,45
+58,44,Tripulante de Cabina,
+37,35,Piloto,25
+59,73,Copiloto,17
+8,80,Copiloto,45
+41,114,Copiloto,19
+34,108,Copiloto,2
+5,38,Tripulante de Cabina,
+21,54,Piloto,51
+5,13,Tripulante de Cabina,
+8,60,Copiloto,15
+8,87,Copiloto,45
+59,65,Piloto,48
+8,45,Piloto,15
+8,76,Copiloto,45
+58,122,Tripulante de Cabina,
+25,72,Piloto,47
+1,21,Tripulante de Cabina,
+56,109,Tripulante de Cabina,
+0,116,Copiloto,37
+59,66,Piloto,17
+24,95,Copiloto,35
+54,43,Copiloto,0
+8,87,Copiloto,15
+8,144,Copiloto,15
+0,75,Copiloto,37
+51,138,Tripulante de Cabina,
+59,108,Piloto,48
+34,47,Piloto,41
+25,125,Copiloto,47
+8,131,Piloto,45
+34,109,Copiloto,2
+51,54,Tripulante de Cabina,
+8,142,Copiloto,45
+25,137,Piloto,47
+59,31,Piloto,17
+25,81,Piloto,36
+43,71,Paramedico,
+17,134,Copiloto,28
+34,73,Piloto,2
+1,6,Tripulante de Cabina,
+42,60,Tripulante de Cabina,
+59,2,Piloto,17
+47,111,Paramedico,
+32,145,Paramedico,
+59,20,Copiloto,17
+59,74,Piloto,48
+18,81,Tripulante de Cabina,
+56,124,Tripulante de Cabina,
+23,110,Copiloto,49
+20,130,Paramedico,
+54,115,Copiloto,0
+25,127,Copiloto,36
+51,18,Tripulante de Cabina,
+8,132,Copiloto,45
+0,40,Copiloto,37
+49,34,Paramedico,
+7,40,Piloto,7
+59,108,Piloto,17
+46,115,Tripulante de Cabina,
+35,93,Paramedico,
+46,43,Tripulante de Cabina,
+54,49,Piloto,0
+37,113,Piloto,25
+38,99,Piloto              ,40
+59,1,Copiloto,17
+8,144,Copiloto,15
+25,37,Piloto,36
+15,88,Piloto,46
+47,98,Paramedico,
+59,20,Copiloto,48
+11,62,Tripulante de Cabina,
+15,24,Piloto,12
+21,111,Copiloto,22
+8,88,Copiloto,45
+38,64,Piloto,40
+59,20,Copiloto,48
+39,16,Tripulante de Cabina,
+59,51,Piloto,17
+59,98,Piloto,48
+32,148,Paramedico,
+31,18,Copiloto,50
+23,122,Piloto,49
+8,0,Piloto,45
+13,139,Tripulante de Cabina,
+34,50,Copiloto,2
+8,142,Copiloto,45
+34,47,Piloto,2
+26,26,Tripulante de Cabina,
+4,115,Tripulante de Cabina,
+17,36,Piloto,28
+8,142,Copiloto,45
+56,129,Tripulante de Cabina,
+28,26,Tripulante de Cabina,
+8,6,Copiloto,45
+21,136,Piloto,51
+49,139,Paramedico,
+34,30,Copiloto,2
+16,120,Tripulante de Cabina,
+59,48,Piloto,48
+8,41,Copiloto,45
+28,67,Tripulante de Cabina,
+25,103,Copiloto,47
+7,28,Copiloto,7
+5,50,Tripulante de Cabina,
+45,74,Paramedico,
+58,99,Tripulante de Cabina,
+59,108,Piloto,48
+59,31,Piloto,48
+34,89,Piloto,2
+31,57,Piloto,50
+59,2,Piloto,17
+59,3,Copiloto,17
+8,144,Copiloto,45
+52,53,Paramedico,
+11,134,Tripulante de Cabina,
+37,129,Piloto,25
+46,102,Tripulante de Cabina,
+59,52,Copiloto,48
+12,9,Tripulante de Cabina,
+10,76,Piloto,11
+59,3,Copiloto,17
+20,20,Paramedico,
+7,13,Copiloto,7
+1,34,Tripulante de Cabina,
+51,48,Tripulante de Cabina,
+25,21,Copiloto,36
+11,83,Tripulante de Cabina,
+22,24,Tripulante de Cabina,
+46,38,Tripulante de Cabina,
+59,65,Piloto,48
+7,103,Piloto,7
+5,141,Tripulante de Cabina,
+47,90,Paramedico,
+59,48,Piloto,48
+37,3,Piloto,25
+16,112,Tripulante de Cabina,
+3,,,42
+42,19,Tripulante de Cabina,
+54,101,Piloto,0
+59,59,Copiloto,48
+41,124,Piloto,19
+34,121,Copiloto,41
+19,119,Tripulante de Cabina,
+37,67,Copiloto,25
+40,96,Paramedico,
+8,45,Piloto,15
+19,50,Tripulante de Cabina,
+8,107,Copiloto,15
+8,64,Copiloto,45
+19,34,Tripulante de Cabina,
+38,77,Piloto,40
+59,13,Piloto,48
+58,128,Tripulante de Cabina,
+22,137,Tripulante de Cabina,
+59,15,Copiloto,17
+59,52,Copiloto,48
+17,90,Copiloto,28
+59,57,Copiloto,17
+58,17,Tripulante de Cabina,
+22,139,Tripulante de Cabina,
+41,50,Piloto,19
+59,101,Copiloto,48
+59,98,Piloto,17
+37,15,Piloto,25
+12,48,Tripulante de Cabina,
+22,109,Tripulante de Cabina,
+59,35,Copiloto,48
+59,15,Copiloto,48
+21,36,Copiloto,22
+42,24,Tripulante de Cabina,
+8,119,Piloto,45
+40,23,Paramedico,
+8,119,Piloto,45
+37,4,Piloto,25
+7,40,Piloto,7
+8,107,Copiloto,45
+35,31,Paramedico,
+17,120,Copiloto,28
+21,115,Piloto,51
+22,49,Tripulante de Cabina,
+26,82,Tripulante de Cabina,
+31,57,Piloto,50
+59,3,Copiloto,17
+40,96,Paramedico,
+47,129,Paramedico,
+56,139,Tripulante de Cabina,
+38,99,Piloto              ,31
+8,142,Copiloto,45
+51,97,Tripulante de Cabina,
+8,87,Copiloto,45
+19,87,Tripulante de Cabina,
+21,32,Copiloto,51
+31,39,Copiloto,50
+59,129,Copiloto,48
+38,64,Piloto,31
+4,138,Tripulante de Cabina,
+14,74,Tripulante de Cabina,
+0,70,Copiloto,37
+19,69,Tripulante de Cabina,
+59,74,Piloto,17
+8,56,Piloto,15
+16,41,Tripulante de Cabina,
+58,103,Tripulante de Cabina,
+8,67,Piloto,15
+25,144,Piloto,47
+8,56,Piloto,15
+22,59,Tripulante de Cabina,
+31,26,Copiloto,50
+24,95,Copiloto,35
+31,71,Piloto,50
+47,76,Paramedico,
+51,116,Tripulante de Cabina,
+8,131,Piloto,15
+8,80,Copiloto,15
+25,8,Copiloto,47
+56,66,Tripulante de Cabina,
+19,125,Tripulante de Cabina,
+21,136,Piloto,51
+59,29,Copiloto,17
+21,43,Piloto,51
+58,119,Tripulante de Cabina,
+22,0,Tripulante de Cabina,
+59,99,Copiloto,17
+7,87,Piloto,7
+28,79,Tripulante de Cabina,
+13,72,Tripulante de Cabina,
+25,127,Copiloto,47
+56,89,Tripulante de Cabina,
+11,34,Tripulante de Cabina,
+8,60,Copiloto,15
+30,58,Paramedico,
+37,18,Piloto,25
+4,47,Tripulante de Cabina,
+56,109,Tripulante de Cabina,
+18,76,Tripulante de Cabina,
+11,6,Tripulante de Cabina,
+17,114,Piloto,28
+8,12,Piloto,45
+59,29,Copiloto,17
+16,84,Tripulante de Cabina,
+0,143,Copiloto,37
+8,119,Piloto,45
+34,108,Copiloto,41
+21,140,Piloto,22
+59,65,Piloto,17
+52,136,Paramedico,
+59,39,Piloto,48
+25,38,Copiloto,36
+2,4,Tripulante de Cabina,
+7,103,Piloto,7
+8,119,Piloto,15
+41,10,Copiloto,19
+0,70,Copiloto,37
+59,15,Copiloto,48
+37,67,Copiloto,25
+5,5,Tripulante de Cabina,
+37,32,Piloto,25
+30,107,Paramedico,
+8,110,Piloto,45
+0,107,Piloto,37
+56,89,Tripulante de Cabina,
+40,86,Paramedico,
+27,75,Paramedico,
+21,84,Copiloto,22
+59,52,Copiloto,17
+46,34,Tripulante de Cabina,
+0,75,Copiloto,37
+34,34,Piloto,2
+52,120,Paramedico,
+25,91,Piloto,36
+59,129,Copiloto,48
+59,101,Copiloto,17
+25,144,Piloto,47
+25,80,Piloto,36
+59,98,Piloto,17
+32,67,Paramedico,
+11,34,Tripulante de Cabina,
+12,97,Tripulante de Cabina,
+42,138,Tripulante de Cabina,
+59,2,Piloto,48
+59,123,Copiloto,17
+34,108,Copiloto,2
+21,133,Piloto,51
+25,139,Piloto,36
+0,145,Copiloto,37
+25,33,Piloto,36
+0,60,Piloto,37
+32,146,Paramedico,
+8,55,Copiloto,15
+22,138,Tripulante de Cabina,
+0,122,Copiloto,37
+8,107,Copiloto,15
+59,29,Copiloto,17
+22,89,Tripulante de Cabina,
+25,138,Copiloto,47
+9,42,Copiloto,29
+56,115,Tripulante de Cabina,
+13,3,Tripulante de Cabina,
+21,28,Piloto,22
+48,97,Tripulante de Cabina,
+24,25,Copiloto,35
+15,88,Piloto,12
+59,57,Copiloto,17
+2,136,Tripulante de Cabina,
+34,47,Piloto,41
+32,134,Paramedico,
+25,38,Copiloto,36
+59,57,Copiloto,17
+45,117,Paramedico,
+59,117,Copiloto,48
+59,3,Copiloto,17
+51,140,Tripulante de Cabina,
+22,99,Tripulante de Cabina,
+18,128,Tripulante de Cabina,
+50,16,Paramedico,
+8,131,Piloto,45
+8,120,Piloto,15
+0,72,Copiloto,37
+25,103,Copiloto,36
+52,136,Paramedico,
+20,130,Paramedico,
+25,81,Piloto,47
+25,8,Copiloto,47
+37,79,Copiloto,25
+59,17,Piloto,48
+33,1,Tripulante de Cabina,
+21,36,Copiloto,51
+8,67,Piloto,15
+35,15,Paramedico,
+8,119,Piloto,15
+59,35,Copiloto,48
+8,100,Copiloto,15
+59,15,Copiloto,48
+25,137,Piloto,36
+59,129,Copiloto,48
+37,82,Piloto,25
+17,89,Copiloto,28
+52,28,Paramedico,
+22,77,Tripulante de Cabina,
+42,49,Tripulante de Cabina,
+18,65,Tripulante de Cabina,
+18,25,Tripulante de Cabina,
+59,35,Copiloto,48
+25,112,Copiloto,47
+7,128,Copiloto,7
+56,108,Tripulante de Cabina,
+22,137,Tripulante de Cabina,
+25,103,Copiloto,36
+59,4,Copiloto,17
+11,100,Tripulante de Cabina,
+10,66,Copiloto,11
+59,108,Piloto,17
+32,42,Paramedico,
+25,137,Piloto,36
+34,121,Copiloto,41
+2,91,Tripulante de Cabina,
+59,48,Piloto,17
+21,84,Copiloto,51
+58,1,Tripulante de Cabina,
+25,38,Copiloto,47
+18,128,Tripulante de Cabina,
+59,73,Copiloto,17
+40,100,Paramedico,
+25,145,Piloto,36
+46,139,Tripulante de Cabina,
+25,139,Piloto,47
+22,0,Tripulante de Cabina,
+30,64,Paramedico,
+25,127,Copiloto,36
+8,109,Piloto,45
+30,135,Paramedico,
+37,35,Piloto,25
+53,91,Paramedico,
+51,116,Tripulante de Cabina,
+5,59,Tripulante de Cabina,
+51,140,Tripulante de Cabina,
+58,39,Tripulante de Cabina,
+50,85,Paramedico,
+59,29,Copiloto,48
+21,133,Piloto,22
+21,98,Copiloto,22
+37,113,Piloto,25
+59,57,Copiloto,48
+59,59,Copiloto,48
+8,132,Copiloto,15
+23,116,Piloto,49
+8,109,Piloto,45
+8,142,Copiloto,15
+8,100,Copiloto,15
+8,110,Piloto,45
+0,86,Piloto,37
+59,20,Copiloto,17
+37,2,Copiloto,25
+8,120,Piloto,15
+24,93,Copiloto,35
+8,64,Copiloto,15
+59,4,Copiloto,17
+58,86,Tripulante de Cabina,
+2,29,Tripulante de Cabina,
+15,70,Piloto,46
+46,6,Tripulante de Cabina,
+47,129,Paramedico,
+9,42,Copiloto,29
+34,73,Piloto,2
+59,123,Copiloto,17
+8,119,Piloto,45
+59,9,Copiloto,48
+47,0,Paramedico,
+14,74,Tripulante de Cabina,
+21,56,Copiloto,22
+25,81,Piloto,36
+23,130,Copiloto,49
+22,49,Tripulante de Cabina,
+28,45,Tripulante de Cabina,
+43,87,Paramedico,
+8,60,Copiloto,15
+23,96,Copiloto,49
+59,31,Piloto,17
+8,142,Copiloto,45
+59,4,Copiloto,17
+24,58,Piloto,35
+25,112,Copiloto,36
+59,4,Copiloto,17
+39,97,Tripulante de Cabina,
+22,0,Tripulante de Cabina,
+8,56,Piloto,45
+31,9,Piloto,50
+2,136,Tripulante de Cabina,
+8,87,Copiloto,15
+59,99,Copiloto,17
+2,137,Tripulante de Cabina,
+8,142,Copiloto,15
+8,56,Piloto,15
+16,69,Tripulante de Cabina,
+9,106,Piloto,29
+2,34,Tripulante de Cabina,
+33,29,Tripulante de Cabina,
+4,138,Tripulante de Cabina,
+51,53,Tripulante de Cabina,
+2,104,Tripulante de Cabina,
+59,39,Piloto,17
+3,,,43
+34,89,Piloto,41
+34,89,Piloto,2
+34,73,Piloto,2
+25,38,Copiloto,36
+22,38,Tripulante de Cabina,
+24,84,Piloto,35
+49,102,Paramedico,
+37,3,Piloto,25
+59,3,Copiloto,48
+59,57,Copiloto,48
+2,26,Tripulante de Cabina,
+7,13,Copiloto,7
+42,51,Tripulante de Cabina,
+24,63,Copiloto,35
+17,118,Piloto,28
+59,9,Copiloto,17
+34,73,Piloto,41
+59,123,Copiloto,48
+8,87,Copiloto,15
+19,10,Tripulante de Cabina,
+59,99,Copiloto,17
+11,62,Tripulante de Cabina,
+41,50,Piloto,19
+59,57,Copiloto,17
+40,39,Paramedico,
+59,9,Copiloto,48
+22,24,Tripulante de Cabina,
+56,129,Tripulante de Cabina,
+13,20,Tripulante de Cabina,
+58,60,Tripulante de Cabina,
+43,4,Paramedico,
+7,71,Copiloto,7
+21,124,Copiloto,22
+0,19,Copiloto,37
+2,29,Tripulante de Cabina,
+56,47,Tripulante de Cabina,
+42,60,Tripulante de Cabina,
+40,97,Paramedico,
+7,68,Piloto,7
+43,127,Paramedico,
+51,48,Tripulante de Cabina,
+47,47,Paramedico,
+27,19,Paramedico,
+13,63,Tripulante de Cabina,
+59,101,Copiloto,17
+37,16,Piloto,25
+8,55,Copiloto,45
+8,132,Copiloto,45
+21,56,Copiloto,22
+14,91,Tripulante de Cabina,
+40,86,Paramedico,
+7,87,Piloto,7
+8,41,Copiloto,15
+8,64,Copiloto,45
+27,116,Paramedico,
+2,2,Tripulante de Cabina,
+2,78,Tripulante de Cabina,
+58,122,Tripulante de Cabina,
+12,97,Tripulante de Cabina,
+8,109,Piloto,15
+8,41,Copiloto,45
+9,33,Copiloto,29
+5,136,Tripulante de Cabina,
+19,58,Tripulante de Cabina,
+2,81,Tripulante de Cabina,
+59,2,Piloto,48
+24,85,Copiloto,35
+2,48,Tripulante de Cabina,
+56,81,Tripulante de Cabina,
+7,13,Copiloto,7
+7,51,Copiloto,7
+21,36,Copiloto,51
+25,80,Piloto,36
+15,131,Copiloto,46
+59,140,Copiloto,48
+22,49,Tripulante de Cabina,
+59,123,Copiloto,17
+4,140,Tripulante de Cabina,
+5,108,Tripulante de Cabina,
+8,131,Piloto,15
+59,117,Copiloto,17
+19,50,Tripulante de Cabina,
+2,4,Tripulante de Cabina,
+22,36,Tripulante de Cabina,
+12,56,Tripulante de Cabina,
+25,33,Piloto,36
+8,132,Copiloto,15
+7,71,Copiloto,7
+30,55,Paramedico,
+5,136,Tripulante de Cabina,
+7,61,Copiloto,7
+25,144,Piloto,36
+50,16,Paramedico,
+25,137,Piloto,47
+15,134,Piloto,46
+54,101,Piloto,0
+5,121,Tripulante de Cabina,
+13,8,Tripulante de Cabina,
+21,32,Copiloto,51
+59,98,Piloto,17
+25,128,Piloto,47
+59,99,Copiloto,17
+10,12,Copiloto,11
+59,108,Piloto,48
+8,120,Piloto,45
+56,89,Tripulante de Cabina,
+56,124,Tripulante de Cabina,
+25,144,Piloto,47
+11,100,Tripulante de Cabina,
+37,91,Copiloto,25
+51,57,Tripulante de Cabina,
+25,144,Piloto,47
+16,76,Tripulante de Cabina,
+2,33,Tripulante de Cabina,
+20,44,Paramedico,
+51,14,Tripulante de Cabina,
+18,68,Tripulante de Cabina,
+59,66,Piloto,48
+22,138,Tripulante de Cabina,
+29,11,Piloto,52
+9,27,Piloto,29
+25,138,Copiloto,47
+8,109,Piloto,45
+31,69,Copiloto,50
+21,61,Piloto,51
+2,9,Tripulante de Cabina,
+56,94,Tripulante de Cabina,
+59,123,Copiloto,48
+59,39,Piloto,17
+53,128,Paramedico,
+21,28,Piloto,51
+5,121,Tripulante de Cabina,
+25,21,Copiloto,36
+59,53,Piloto,17
+34,42,Piloto,2
+34,102,Copiloto,2
+59,3,Copiloto,48
+59,20,Copiloto,48
+4,9,Tripulante de Cabina,
+5,19,Tripulante de Cabina,
