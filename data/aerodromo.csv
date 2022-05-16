@@ -1,0 +1,40 @@
+id,ciudad_id,nombre,icao,iata,latitud,longitud
+45,43,Aeropuerto de Ámsterdam-Schiphol,RCQR,OHI,37.1,60.9
+61,53,Aeropuerto Internacional Eleftherios Venizelos,UQQX,TQV,72.4,102.6
+31,50,Aeropuerto Josep Tarradellas Barcelona-El Prat,MVPW,JIZ,52.7,165.2
+33,44,Aeropuerto Internacional de Pekín,NBMQ,JTM,133.5,57.9
+3,59,Aeropuerto Internacional de Ezeiza,BVWK,BAH,14.7,51.2
+47,64,Aeropuerto Internacional de Cancún,SDSC,PKS,103.3,99.4
+65,60,Aeropuerto Internacional de Maiquetía Simón Bolívar,VBIT,UYL,144,165.7
+9,56,Aeropuerto Internacional O'Hare,FCJT,BYB,166.5,51
+51,62,Aeropuerto Internacional de la Ciudad del Cabo,SIMJ,RFP,47.4,157.1
+27,40,Aeropuerto Internacional de El Cairo,KZZS,HRV,103.8,107.6
+69,48,Aeropuerto Internacional Ataturk,XOEY,VNN,104,154.4
+59,47,Aeropuerto de Hong Kong,TQQZ,TEF,142.6,4.1
+67,72,Aeropuerto de Ibiza,XEWM,VBH,156.8,54.8
+49,61,Aeropuerto Internacional El Alto,SGWN,QJM,173.5,5.6
+53,58,Aeropuerto Internacional Jorge Chávez,TAZY,RRK,62.2,148.1
+17,51,Aeropuerto de la Ciudad de Londres,GSPA,EPM,152.5,76.9
+29,55,Aeropuerto de Adolfo Suárez Madrid-Barajas,MBOO,HSJ,54.2,174.5
+23,66,Aeropuerto Internacional de Melbourne,JKRA,HNB,19.5,53.9
+13,73,Aeropuerto Internacional de Miami,GAWW,CPH,96.1,8.4
+57,41,Aeropuerto de Milán-Malpensa,TCGF,SPT,70.1,56.3
+43,71,Aeropuerto Internacional de Carrasco,PYIM,NVI,66.4,148
+63,67,Aeropuerto Internacional Indira Gandhi,URLQ,UAU,149.9,125.7
+11,69,Aeropuerto Internacional John F. Kennedy,FOLH,CKR,18.1,123.4
+71,69,Aeropuerto Internacional de Nueva York,XSAM,WHO,89.8,171.2
+75,69,Aeropuerto Big Apple,YHEP,YGY,43,118.1
+19,46,Aeropuerto de París-Charles de Gaulle,HGZT,HCM,147.2,49.6
+7,49,Aeropuerto Internacional de Galeão,EEGZ,BXS,6.8,90.3
+55,63,Aeropuerto de Roma-Fiumicino,TBJM,SFF,157.2,26.7
+15,65,Aeropuerto Internacional de San Francisco,GPRK,DUU,45.1,142.8
+1,42,Aeropuerto Internacional Arturo Merino Benítez,BLFS,AWR,75.4,106.5
+73,42,Aeropuerto Internacional de Copiapo,XSZW,WKT,92.2,129.6
+5,45,Aeropuerto Internacional de São Paulo-Guarulhos,DZFP,BKT,17.9,177.8
+41,70,Aeropuerto Internacional de Icheon,PVOW,LMF,159.1,71.9
+35,54,Aeropuerto Internacional Pudong,NZTG,KFE,153.9,115.7
+77,52,Aeropuerto Internacional de Australia,ZGUA,ZLQ,27.3,111.1
+25,52,Aeropuerto Internacional Kingsford Smith,KMPW,HOX,22.5,59.4
+37,74,Aeropuerto Internacional Ben Gurión,NZTP,KZN,159.3,167.2
+39,57,Aeropuerto Internacional de Haneda,PFXE,LCX,153.8,40.2
+21,68,Aeropuerto Internacional Toronto Pearson,IWJC,HKA,40.2,41.8
