@@ -22,8 +22,9 @@ DROP TABLE IF EXISTS costo;
 
 CREATE TABLE persona(
 	id serial PRIMARY KEY,
-	pasaporte varchar UNIQUE NOT NULL,
-	nacimiento date NOT NULL
+	nombre varchar NOT NULL,
+	nacimiento date NOT NULL,
+	pasaporte varchar UNIQUE NOT NULL
 );
 
 CREATE TABLE compania_aerea(
@@ -103,6 +104,8 @@ CREATE TABLE vuelo(
 
 CREATE TABLE aerodromo(
 	id serial PRIMARY KEY,
+	ciudad_id integer NOT NULL,
+	nombre varchar NOT NULL,
 	ICAO char(4) UNIQUE NOT NULL,
 	IATA char(3) UNIQUE NOT NULL,
 	latitud real NOT NULL,
@@ -132,7 +135,7 @@ CREATE TABLE punto(
 CREATE TABLE aeronave(
 	codigo char(7) PRIMARY KEY,
 	nombre varchar NOT NULL,
-	model varchar NOT NULL,
+	modelo varchar NOT NULL,
 	peso real NOT NULL
 );
 
@@ -144,7 +147,6 @@ CREATE TABLE costo(
 );
 
 
-\COPY table_name from './data/.csv' DELIMITER ',' CSV HEADER;
 \copy persona from './data/persona.csv' DELIMITER ',' CSV HEADER;
 \copy compania_aerea from './data/compania_aerea.csv' DELIMITER ',' CSV HEADER;
 \copy empleado_en from './data/empleado_en.csv' DELIMITER ',' CSV HEADER;
@@ -161,7 +163,7 @@ CREATE TABLE costo(
 \copy vuelo from './data/vuelo.csv' DELIMITER ',' CSV HEADER;
 \copy aerodromo from './data/aerodromo.csv' DELIMITER ',' CSV HEADER;
 \copy ciudad from './data/ciudad.csv' DELIMITER ',' CSV HEADER;
-\copy punto from './data/punto.csv' DELIMITER ',' CSV HEADER;
 \copy ruta from './data/ruta.csv' DELIMITER ',' CSV HEADER;
-\copy aeronave from './data/aeronava.csv' DELIMITER ',' CSV HEADER;
+\copy punto from './data/punto.csv' DELIMITER ',' CSV HEADER;
+\copy aeronave from './data/aeronave.csv' DELIMITER ',' CSV HEADER;
 \copy costo from './data/costo.csv' DELIMITER ',' CSV HEADER;
