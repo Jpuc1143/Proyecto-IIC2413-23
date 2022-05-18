@@ -99,7 +99,8 @@ CREATE TABLE vuelo(
 	fecha_llegada timestamp NOT NULL,
 	velocidad real NOT NULL,
 	altitud real NOT NULL,
-	estado varchar NOT NULL
+	estado varchar NOT NULL,
+	codigo varchar NOT NULL
 );
 
 CREATE TABLE aerodromo(
