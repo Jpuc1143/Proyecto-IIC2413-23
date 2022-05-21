@@ -49,5 +49,5 @@ ORDER BY compania_aerea.codigo;
 
 $result = $db -> prepare($query);
 $result -> execute();
-$data = $result -> fetchAll();
+$data = $result -> fetchAll(PDO::FETCH_NUM);
 ?>

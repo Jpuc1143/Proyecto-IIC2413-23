@@ -21,5 +21,5 @@ LEFT JOIN total ON compania_aerea.codigo = total.compania_codigo;
 
 $result = $db -> prepare($query);
 $result -> execute();
-$data = $result -> fetchAll();
+$data = $result -> fetchAll(PDO::FETCH_NUM);
 ?>
