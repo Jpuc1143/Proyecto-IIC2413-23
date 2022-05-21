@@ -34,7 +34,9 @@ if (isset($_GET["query"])) {
 	}
 }
 if (isset($data)) {
-	echo "<table>";
+	echo '<table class="table table-striped table-hover">';
+	// theader foreach header
+	echo '<tbody>';
 	foreach($data as $row) {
 		echo "<tr>";
 		foreach($row as $cell) {
@@ -42,7 +44,7 @@ if (isset($data)) {
 		}
 		echo "</tr>";
 	}
-	echo "</table>";
+	echo "</tbody></table>";
 }
 ?>
 
