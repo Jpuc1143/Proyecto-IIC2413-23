@@ -92,6 +92,7 @@
 	$data = $result -> fetchAll();
 	
 	echo "<ul>";
+	print_r($data);
 	foreach($data as $row) {
 		echo "<li>".$row[0].",".$row[1].":".$row[2].",".$row[3].",".$row[4].",".$row[5].",".$row[6]."</li>";
 	}
