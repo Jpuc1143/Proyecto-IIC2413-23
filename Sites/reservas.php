@@ -3,7 +3,7 @@
 	<label>Ingrese su código de reserva:</label>
 	<input type="text" name="codigo" autofocus>
 	<input type="submit", value="Buscar">
-</form
+</form>
 
 <?php
 	require("connection.php");

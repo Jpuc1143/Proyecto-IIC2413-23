@@ -1,6 +1,12 @@
 <?php
 require("./queries/connection.php");
 
+if (isset($_GET["compania"])) {
+	$compania = "%".$_GET["compania"]."%";
+} else {
+	$compania = "%";
+}
+
 $query = "
 WITH aceptado as (
         SELECT compania_aerea.codigo, count(estado) FROM compania_aerea
@@ -43,11 +49,19 @@ LEFT JOIN borrador ON compania_aerea.codigo = borrador.codigo
 LEFT JOIN pendiente ON compania_aerea.codigo = pendiente.codigo
 LEFT JOIN publicado ON compania_aerea.codigo = publicado.codigo
 LEFT JOIN total ON compania_aerea.codigo = total.compania_codigo
-WHERE compania_aerea.nombre ILIKE '%%'
+WHERE compania_aerea.nombre ILIKE :compania
 ORDER BY compania_aerea.codigo;
 ";
 
 $result = $db -> prepare($query);
+$result -> bindParam("compania", $compania);
+
 $result -> execute();
 $data = $result -> fetchAll(PDO::FETCH_NUM);
+
+foreach($data as &$row) {
+	for($i = 3; $i<count($row); $i += 2) {
+		$row[$i] = round(100*$row[$i])."%";
+	}
+}
 ?>
