@@ -13,7 +13,7 @@ if (isset($_GET["icao"])) {
 }
 
 $query = "
-SELECT vuelo.id, vuelo.codigo
+SELECT vuelo.id, compania_aerea.codigo, aerodromo.nombre, vuelo.fecha_salida,vuelo.fecha_llegada
 FROM vuelo,aerodromo,compania_aerea
 WHERE aerodromo.id = vuelo.aerodromo_llegada_id AND
 compania_aerea.codigo = vuelo.compania_codigo AND
