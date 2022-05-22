@@ -9,7 +9,7 @@
 <div align="center">
   <p> A continuación puede buscar los vuelos pendientes de ser aprobados por la DGAC</p>
 <form>
-  <input type="submit" name="vuelos_pendientes" value="Buscar Vuelos Pendientes">
+  <button type="submit" name="query" value="1">Buscar Vuelos Pendientes</button>
 </form>
 </div>
 <hr>
@@ -20,12 +20,12 @@
   <input type="text" id="icao" name="icao" value=""><br>
   <label for="aerolinea">Aerolínea:</label><br>
   <input type="text" id="aerolinea" name="aerolinea" value=""><br><br>
-  <input type="submit" name ="boton_submit" value="Submit">
+  <button type="submit" name="query" value="2">Submit</button>
 </form> 
 </div>
 <hr>
 <form>
-        <label>Ingrese su código de reserva:</label>
+	<label>Ingrese su código de reserva:</label>
         <input type="text" name="codigo">
 	<button type="submit" name="query" value="3">Buscar</button>
 </form>
@@ -51,10 +51,10 @@
 if (isset($_GET["query"])) {
 	switch ($_GET["query"]) {
 		case "1":
-			include("queries/query1.php")
+			include("queries/query1.php");
 			break;
 		case "2":
-			include("queries/query2.php")
+			include("queries/query2.php");
 			break;
 		case "3":
 			include("queries/query3.php");
