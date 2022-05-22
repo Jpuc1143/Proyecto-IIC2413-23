@@ -34,7 +34,7 @@
 <hr>
 <div align="center">
 <form>
-	<label>Clientes Frequentes</label>
+	<label>Clientes Frecuentes</label>
 	<button type="submit" name="query" value="4">Buscar</button>
 </form>
 </div>
