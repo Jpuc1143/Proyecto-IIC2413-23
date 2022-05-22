@@ -1,5 +1,7 @@
 <?php include("header.html") ?>
-
+<body>
+	<h1>Consultas AirInfo</h1>
+</body>
 <div align="center">
   <img src = "avion.jpg" height="300" width="500">
 </div>
