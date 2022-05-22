@@ -3,6 +3,10 @@
 <h2>Index</h2>
 <hr>
 <div align="center">
+  <img src = "avion.jpg" height="300" width="500">
+</div>
+<hr>
+<div align="center">
   <p> A continuación puede buscar los vuelos pendientes de ser aprobados por la DGAC</p>
 <form>
   <input type="submit" name="vuelos_pendientes" value="Buscar Vuelos Pendientes">
@@ -80,5 +84,20 @@ if (isset($data)) {
 	echo "</tbody></table>";
 }
 ?>
+<style>
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 15px;
+}
+</style>
 
 <?php include("footer.html") ?>
