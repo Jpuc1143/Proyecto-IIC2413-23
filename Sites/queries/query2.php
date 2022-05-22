@@ -15,8 +15,8 @@ if (isset($_GET["icao"])) {
 $query = "
 SELECT vuelo.id, vuelo.codigo
 FROM vuelo,aerodromo,compania_aerea
-WHERE aerodromo.id = vuelo.aerodromo_llegada.id AND
-compania_aerea.codigo = vuelo.compania_aerea.codigo AND
+WHERE aerodromo.id = vuelo.aerodromo_llegada_id AND
+compania_aerea.codigo = vuelo.compania.codigo AND
 compania_aerea.nombre ILIKE:aerolinea AND
 aeodromo.icao ILIKE:icao
 ";
