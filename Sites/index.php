@@ -18,32 +18,41 @@
   <input type="text" id="icao" name="icao" value=""><br>
   <label for="aerolinea">Aerolínea:</label><br>
   <input type="text" id="aerolinea" name="aerolinea" value=""><br><br>
-  <button type="submit" name="query" value="2">Submit</button>
+  <button type="submit" name="query" value="2">Buscar</button>
 </form> 
 </div>
 <hr>
+<div align="center">
 <form>
 	<label>Ingrese su código de reserva:</label>
         <input type="text" name="codigo">
 	<button type="submit" name="query" value="3">Buscar</button>
 </form>
-
+</div>
+<hr>
+<div align="center">
 <form>
 	<label>Clientes Frequentes</label>
 	<button type="submit" name="query" value="4">Buscar</button>
 </form>
-
+</div>
+<hr>
+<div align="center">
 <form>
 	<label>Estados de vuelos por nombre de aerolinea</label></br>
 	<label>Nombre aerolinea: </label>
 	<input type="text" name="compania">
 	<button type="submit" name="query" value="5">Buscar</button>
 </form>
-
+</div>
+<hr>
+<div align="center">
 <form>
 	<label>Aerolinea con mayor porcentaje de vuelos aceptados</label>
 	<button type="submit" name="query" value="6">Buscar</button>
 </form>
+</div>
+<hr>
 
 <?php
 if (isset($_GET["query"])) {
