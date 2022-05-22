@@ -1,7 +1,5 @@
 <?php include("header.html") ?>
 
-<h2>Index</h2>
-<hr>
 <div align="center">
   <img src = "avion.jpg" height="300" width="500">
 </div>
