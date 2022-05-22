@@ -20,6 +20,9 @@ compania_aerea.codigo = vuelo.compania_aerea.codigo AND
 compania_aerea.nombre ILIKE:aerolinea AND
 aeodromo.icao ILIKE:icao
 ";
+$result = $db -> prepare($query);
+$result -> execute();
+$data2 = $result -> fetchAll(PDO::FETCH_NUM);
 if (isset($_GET["boton_submit"])) {
   if (isset($_GET["icao"])){
     if (isset($_GET["aerolinea"])){
