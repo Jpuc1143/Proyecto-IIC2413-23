@@ -101,10 +101,14 @@ if (isset($_GET["query"])) {
 	}
 }
 if (isset($data)) {
-	echo '<table class="table table-striped table-hover">';
-	// theader foreach header
+	echo '<table class="table table-striped table-hover table-bordered">';
+	echo '<thead class="table-dark"><tr>';
+	for($i=0; $i<count($header); $i++) {
+		echo '<th>'.$header[$i]."</th>";
+	}
+	echo '</tr></thead>';
 	echo '<tbody>';
-	// Aparentemente el meme de php es horrible es verdad y por eso tuve que usar un for en vez del foreach por 
+	// Aparentemente el meme de que php es horrible es verdad y por eso tuve que usar un for en vez del foreach por 
 	// un "propiedad" no-intuitiva.
 	for($i=0;$i<count($data);$i++) {
 		echo "<tr>";

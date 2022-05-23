@@ -21,5 +21,6 @@ ORDER BY conteo.codigo;
 
 $result = $db -> prepare($query);
 $result -> execute();
+$header = array("COD", "Aerolinea", "Cliente Frequente", "Tickets comprados");
 $data = $result -> fetchAll(PDO::FETCH_NUM);
 ?>

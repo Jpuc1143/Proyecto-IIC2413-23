@@ -45,6 +45,7 @@ $result = $db -> prepare($query);
 $result -> bindParam("estado", $estado);
 
 $result -> execute();
+$header = array("COD", "Aerolinea", "Estado", "Cantidad", "%", "Total");
 $data = $result -> fetchAll(PDO::FETCH_NUM);
 foreach($data as &$row) {
 	$row[4] = round(100*$row[4])."%";

@@ -57,6 +57,7 @@ $result = $db -> prepare($query);
 $result -> bindParam("compania", $compania);
 
 $result -> execute();
+$header = array("COD", "Aerolinea", "Aceptados", "%", "Rechazados", "%", "Borradores", "%", "Pendientes", "%", "Publicados", "%", "Total");
 $data = $result -> fetchAll(PDO::FETCH_NUM);
 foreach($data as &$row) {
 	for($i = 3; $i<count($row); $i += 2) {

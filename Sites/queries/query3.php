@@ -8,7 +8,7 @@ if (isset($_GET["codigo"])) {
 }
 
 $query = "
-SELECT reserva.id,reserva.codigo, comprador.nombre, pasajero.nombre, vuelo.codigo, ticket.clase, ticket.numero_asiento, costo.valor FROM reserva
+SELECT reserva.codigo, comprador.nombre, pasajero.nombre, vuelo.codigo, ticket.clase, ticket.numero_asiento, costo.valor FROM reserva
 LEFT JOIN ticket ON reserva.id = ticket.reserva_id
 LEFT JOIN vuelo ON ticket.vuelo_id = vuelo.id
 LEFT JOIN aeronave ON vuelo.aeronave_codigo = aeronave.codigo
@@ -23,5 +23,9 @@ $result = $db -> prepare($query);
 $result -> bindParam("codigo", $codigo);
 
 $result -> execute();
+$header = array("Reserva", "Comprador", "Pasajero", "Vuelo", "Clase", "Asiento", "Valor");
 $data = $result -> fetchAll(PDO::FETCH_NUM);
+foreach($data as &$row) {
+	$row[6] = "$".$row[6];
+}
 ?>

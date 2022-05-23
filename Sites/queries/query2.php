@@ -25,5 +25,6 @@ $result -> bindParam("aerolinea", $aerolinea);
 $result -> bindParam("icao", $icao);
 
 $result -> execute();
+$header = array("COD", "Aerolinea", "Vuelo", "Estado", "Aerodromo Destino", "ICAO");
 $data = $result -> fetchAll(PDO::FETCH_NUM);
 ?>
