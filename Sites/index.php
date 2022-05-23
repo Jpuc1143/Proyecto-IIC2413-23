@@ -27,7 +27,8 @@
 <div align="center">
 <form>
 	<label>Ingrese su código de reserva:</label>
-        <input type="text" name="codigo">
+        <input type="text" name="codigo"><br>
+		<br>
 	<button type="submit" name="query" value="3">Buscar</button>
 </form>
 </div>
@@ -42,8 +43,9 @@
 <div align="center">
 	<p>Estados de vuelos por nombre de aerolínea</p>
 <form>
-	<label>Nombre aerolinea: </label><br>
-	<input type="text" name="compania">
+	<label>Nombre aerolinea: </label>
+	<input type="text" name="compania"><br>
+	<br>
 	<button type="submit" name="query" value="5">Buscar</button>
 </form>
 </div>
