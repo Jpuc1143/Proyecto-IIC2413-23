@@ -1,0 +1,464 @@
+trabajador_id,vuelo_id,rol
+4,139,Tripulante de Cabina
+2,78,Tripulante de Cabina
+35,124,Paramedico
+22,101,Tripulante de Cabina
+40,35,Paramedico
+22,137,Tripulante de Cabina
+58,65,Tripulante de Cabina
+39,15,Tripulante de Cabina
+18,41,Tripulante de Cabina
+45,117,Paramedico
+20,7,Paramedico
+43,94,Paramedico
+53,27,Paramedico
+14,117,Tripulante de Cabina
+40,11,Paramedico
+51,137,Tripulante de Cabina
+35,89,Paramedico
+19,85,Tripulante de Cabina
+18,65,Tripulante de Cabina
+12,87,Tripulante de Cabina
+19,112,Tripulante de Cabina
+40,96,Paramedico
+4,105,Tripulante de Cabina
+22,136,Tripulante de Cabina
+45,92,Paramedico
+46,45,Tripulante de Cabina
+46,28,Tripulante de Cabina
+18,25,Tripulante de Cabina
+16,123,Tripulante de Cabina
+58,80,Tripulante de Cabina
+50,95,Paramedico
+18,55,Tripulante de Cabina
+14,121,Tripulante de Cabina
+22,74,Tripulante de Cabina
+58,29,Tripulante de Cabina
+47,109,Paramedico
+56,108,Tripulante de Cabina
+22,108,Tripulante de Cabina
+32,132,Paramedico
+1,50,Tripulante de Cabina
+49,138,Paramedico
+53,43,Paramedico
+19,121,Tripulante de Cabina
+2,91,Tripulante de Cabina
+42,138,Tripulante de Cabina
+56,27,Tripulante de Cabina
+19,135,Tripulante de Cabina
+13,146,Tripulante de Cabina
+12,26,Tripulante de Cabina
+56,140,Tripulante de Cabina
+5,75,Tripulante de Cabina
+58,128,Tripulante de Cabina
+18,103,Tripulante de Cabina
+52,54,Paramedico
+51,22,Tripulante de Cabina
+22,131,Tripulante de Cabina
+22,90,Tripulante de Cabina
+32,146,Paramedico
+22,24,Tripulante de Cabina
+56,124,Tripulante de Cabina
+22,38,Tripulante de Cabina
+33,91,Tripulante de Cabina
+2,104,Tripulante de Cabina
+50,29,Paramedico
+22,77,Tripulante de Cabina
+52,41,Paramedico
+19,119,Tripulante de Cabina
+28,97,Tripulante de Cabina
+32,144,Paramedico
+47,98,Paramedico
+56,89,Tripulante de Cabina
+56,111,Tripulante de Cabina
+22,73,Tripulante de Cabina
+12,113,Tripulante de Cabina
+19,6,Tripulante de Cabina
+26,52,Tripulante de Cabina
+40,23,Paramedico
+51,53,Tripulante de Cabina
+58,33,Tripulante de Cabina
+56,109,Tripulante de Cabina
+56,139,Tripulante de Cabina
+22,36,Tripulante de Cabina
+5,40,Tripulante de Cabina
+26,118,Tripulante de Cabina
+50,33,Paramedico
+51,18,Tripulante de Cabina
+46,136,Tripulante de Cabina
+51,14,Tripulante de Cabina
+16,41,Tripulante de Cabina
+56,38,Tripulante de Cabina
+2,46,Tripulante de Cabina
+22,138,Tripulante de Cabina
+53,81,Paramedico
+35,106,Paramedico
+2,9,Tripulante de Cabina
+26,97,Tripulante de Cabina
+52,12,Paramedico
+18,142,Tripulante de Cabina
+22,28,Tripulante de Cabina
+30,121,Paramedico
+1,45,Tripulante de Cabina
+47,77,Paramedico
+16,95,Tripulante de Cabina
+53,141,Paramedico
+35,78,Paramedico
+16,12,Tripulante de Cabina
+28,134,Tripulante de Cabina
+27,19,Paramedico
+52,28,Paramedico
+22,110,Tripulante de Cabina
+30,84,Paramedico
+58,39,Tripulante de Cabina
+12,127,Tripulante de Cabina
+35,73,Paramedico
+22,59,Tripulante de Cabina
+28,11,Tripulante de Cabina
+51,51,Tripulante de Cabina
+58,119,Tripulante de Cabina
+20,66,Paramedico
+1,37,Tripulante de Cabina
+30,21,Paramedico
+52,137,Paramedico
+56,0,Tripulante de Cabina
+39,42,Tripulante de Cabina
+52,140,Paramedico
+58,87,Tripulante de Cabina
+58,44,Tripulante de Cabina
+18,143,Tripulante de Cabina
+5,101,Tripulante de Cabina
+12,80,Tripulante de Cabina
+39,97,Tripulante de Cabina
+16,120,Tripulante de Cabina
+13,144,Tripulante de Cabina
+2,137,Tripulante de Cabina
+22,8,Tripulante de Cabina
+2,136,Tripulante de Cabina
+46,102,Tripulante de Cabina
+18,1,Tripulante de Cabina
+49,30,Paramedico
+2,4,Tripulante de Cabina
+19,58,Tripulante de Cabina
+16,25,Tripulante de Cabina
+2,96,Tripulante de Cabina
+50,105,Paramedico
+22,109,Tripulante de Cabina
+56,81,Tripulante de Cabina
+56,136,Tripulante de Cabina
+30,125,Paramedico
+2,48,Tripulante de Cabina
+2,45,Tripulante de Cabina
+32,142,Paramedico
+2,124,Tripulante de Cabina
+46,138,Tripulante de Cabina
+2,26,Tripulante de Cabina
+22,130,Tripulante de Cabina
+39,9,Tripulante de Cabina
+4,129,Tripulante de Cabina
+14,33,Tripulante de Cabina
+56,47,Tripulante de Cabina
+51,26,Tripulante de Cabina
+12,48,Tripulante de Cabina
+2,2,Tripulante de Cabina
+13,113,Tripulante de Cabina
+56,36,Tripulante de Cabina
+53,65,Paramedico
+5,138,Tripulante de Cabina
+49,50,Paramedico
+16,76,Tripulante de Cabina
+46,50,Tripulante de Cabina
+46,108,Tripulante de Cabina
+50,37,Paramedico
+19,50,Tripulante de Cabina
+5,59,Tripulante de Cabina
+52,13,Paramedico
+51,38,Tripulante de Cabina
+5,13,Tripulante de Cabina
+43,71,Paramedico
+14,90,Tripulante de Cabina
+2,33,Tripulante de Cabina
+11,34,Tripulante de Cabina
+46,139,Tripulante de Cabina
+11,100,Tripulante de Cabina
+5,108,Tripulante de Cabina
+32,72,Paramedico
+5,50,Tripulante de Cabina
+13,63,Tripulante de Cabina
+19,114,Tripulante de Cabina
+18,68,Tripulante de Cabina
+1,21,Tripulante de Cabina
+2,34,Tripulante de Cabina
+2,121,Tripulante de Cabina
+46,43,Tripulante de Cabina
+52,9,Paramedico
+2,93,Tripulante de Cabina
+19,37,Tripulante de Cabina
+48,35,Tripulante de Cabina
+42,49,Tripulante de Cabina
+27,14,Paramedico
+1,6,Tripulante de Cabina
+56,104,Tripulante de Cabina
+18,72,Tripulante de Cabina
+42,44,Tripulante de Cabina
+56,115,Tripulante de Cabina
+14,103,Tripulante de Cabina
+58,1,Tripulante de Cabina
+56,46,Tripulante de Cabina
+5,141,Tripulante de Cabina
+27,62,Paramedico
+51,23,Tripulante de Cabina
+18,148,Tripulante de Cabina
+52,18,Paramedico
+32,147,Paramedico
+22,139,Tripulante de Cabina
+51,139,Tripulante de Cabina
+42,137,Tripulante de Cabina
+13,107,Tripulante de Cabina
+46,6,Tripulante de Cabina
+43,4,Paramedico
+40,97,Paramedico
+58,23,Tripulante de Cabina
+19,34,Tripulante de Cabina
+35,46,Paramedico
+50,68,Paramedico
+32,42,Paramedico
+49,108,Paramedico
+26,92,Tripulante de Cabina
+19,120,Tripulante de Cabina
+50,85,Paramedico
+40,22,Paramedico
+2,138,Tripulante de Cabina
+11,6,Tripulante de Cabina
+40,122,Paramedico
+16,84,Tripulante de Cabina
+2,68,Tripulante de Cabina
+5,121,Tripulante de Cabina
+20,130,Paramedico
+53,91,Paramedico
+11,57,Tripulante de Cabina
+35,36,Paramedico
+35,126,Paramedico
+30,58,Paramedico
+22,0,Tripulante de Cabina
+27,57,Paramedico
+28,26,Tripulante de Cabina
+12,119,Tripulante de Cabina
+58,5,Tripulante de Cabina
+11,11,Tripulante de Cabina
+58,17,Tripulante de Cabina
+48,59,Tripulante de Cabina
+43,80,Paramedico
+56,131,Tripulante de Cabina
+40,83,Paramedico
+53,133,Paramedico
+18,145,Tripulante de Cabina
+28,30,Tripulante de Cabina
+28,88,Tripulante de Cabina
+50,2,Paramedico
+51,138,Tripulante de Cabina
+47,111,Paramedico
+56,98,Tripulante de Cabina
+46,121,Tripulante de Cabina
+14,91,Tripulante de Cabina
+56,1,Tripulante de Cabina
+40,82,Paramedico
+50,5,Paramedico
+20,44,Paramedico
+52,26,Paramedico
+12,20,Tripulante de Cabina
+5,38,Tripulante de Cabina
+32,67,Paramedico
+45,52,Paramedico
+18,128,Tripulante de Cabina
+39,96,Tripulante de Cabina
+33,42,Tripulante de Cabina
+46,34,Tripulante de Cabina
+39,106,Tripulante de Cabina
+14,81,Tripulante de Cabina
+46,38,Tripulante de Cabina
+40,86,Paramedico
+28,132,Tripulante de Cabina
+45,123,Paramedico
+27,49,Paramedico
+19,87,Tripulante de Cabina
+56,66,Tripulante de Cabina
+48,40,Tripulante de Cabina
+4,111,Tripulante de Cabina
+22,89,Tripulante de Cabina
+46,30,Tripulante de Cabina
+45,48,Paramedico
+39,16,Tripulante de Cabina
+2,141,Tripulante de Cabina
+26,48,Tripulante de Cabina
+40,39,Paramedico
+52,114,Paramedico
+30,64,Paramedico
+48,48,Tripulante de Cabina
+51,96,Tripulante de Cabina
+47,0,Paramedico
+4,98,Tripulante de Cabina
+30,143,Paramedico
+4,138,Tripulante de Cabina
+52,69,Paramedico
+42,115,Tripulante de Cabina
+19,125,Tripulante de Cabina
+5,19,Tripulante de Cabina
+56,94,Tripulante de Cabina
+47,131,Paramedico
+11,45,Tripulante de Cabina
+46,8,Tripulante de Cabina
+58,68,Tripulante de Cabina
+20,60,Paramedico
+53,38,Paramedico
+58,86,Tripulante de Cabina
+22,99,Tripulante de Cabina
+16,69,Tripulante de Cabina
+4,47,Tripulante de Cabina
+50,16,Paramedico
+49,34,Paramedico
+58,99,Tripulante de Cabina
+20,110,Paramedico
+4,140,Tripulante de Cabina
+53,115,Paramedico
+58,103,Tripulante de Cabina
+47,129,Paramedico
+56,129,Tripulante de Cabina
+28,52,Tripulante de Cabina
+33,29,Tripulante de Cabina
+51,39,Tripulante de Cabina
+58,70,Tripulante de Cabina
+16,125,Tripulante de Cabina
+13,3,Tripulante de Cabina
+51,116,Tripulante de Cabina
+13,72,Tripulante de Cabina
+27,59,Paramedico
+58,60,Tripulante de Cabina
+35,15,Paramedico
+53,56,Paramedico
+43,103,Paramedico
+5,5,Tripulante de Cabina
+33,65,Tripulante de Cabina
+22,49,Tripulante de Cabina
+26,26,Tripulante de Cabina
+4,136,Tripulante de Cabina
+28,45,Tripulante de Cabina
+4,32,Tripulante de Cabina
+18,107,Tripulante de Cabina
+12,7,Tripulante de Cabina
+33,33,Tripulante de Cabina
+51,54,Tripulante de Cabina
+4,2,Tripulante de Cabina
+28,67,Tripulante de Cabina
+51,97,Tripulante de Cabina
+12,61,Tripulante de Cabina
+20,113,Paramedico
+12,3,Tripulante de Cabina
+20,20,Paramedico
+53,128,Paramedico
+13,147,Tripulante de Cabina
+45,118,Paramedico
+42,19,Tripulante de Cabina
+35,32,Paramedico
+19,69,Tripulante de Cabina
+19,10,Tripulante de Cabina
+30,112,Paramedico
+51,52,Tripulante de Cabina
+4,48,Tripulante de Cabina
+20,3,Paramedico
+20,24,Paramedico
+30,6,Paramedico
+28,79,Tripulante de Cabina
+52,120,Paramedico
+48,52,Tripulante de Cabina
+18,76,Tripulante de Cabina
+46,137,Tripulante de Cabina
+27,40,Paramedico
+16,10,Tripulante de Cabina
+40,88,Paramedico
+35,93,Paramedico
+13,38,Tripulante de Cabina
+58,122,Tripulante de Cabina
+42,130,Tripulante de Cabina
+39,71,Tripulante de Cabina
+40,25,Paramedico
+20,70,Paramedico
+20,63,Paramedico
+12,97,Tripulante de Cabina
+43,1,Paramedico
+49,102,Paramedico
+51,115,Tripulante de Cabina
+14,29,Tripulante de Cabina
+30,55,Paramedico
+4,38,Tripulante de Cabina
+35,104,Paramedico
+47,47,Paramedico
+49,45,Paramedico
+27,101,Paramedico
+2,81,Tripulante de Cabina
+52,10,Paramedico
+11,22,Tripulante de Cabina
+52,51,Paramedico
+12,96,Tripulante de Cabina
+4,115,Tripulante de Cabina
+26,82,Tripulante de Cabina
+42,51,Tripulante de Cabina
+11,122,Tripulante de Cabina
+49,8,Paramedico
+46,133,Tripulante de Cabina
+2,29,Tripulante de Cabina
+26,35,Tripulante de Cabina
+46,115,Tripulante de Cabina
+47,90,Paramedico
+13,138,Tripulante de Cabina
+5,30,Tripulante de Cabina
+14,74,Tripulante de Cabina
+12,9,Tripulante de Cabina
+16,112,Tripulante de Cabina
+27,116,Paramedico
+49,139,Paramedico
+51,140,Tripulante de Cabina
+18,81,Tripulante de Cabina
+42,60,Tripulante de Cabina
+39,126,Tripulante de Cabina
+32,134,Paramedico
+45,74,Paramedico
+35,31,Paramedico
+13,8,Tripulante de Cabina
+32,79,Paramedico
+30,135,Paramedico
+53,61,Paramedico
+28,9,Tripulante de Cabina
+32,148,Paramedico
+49,99,Paramedico
+40,100,Paramedico
+12,56,Tripulante de Cabina
+27,17,Paramedico
+11,134,Tripulante de Cabina
+43,127,Paramedico
+13,20,Tripulante de Cabina
+1,34,Tripulante de Cabina
+42,24,Tripulante de Cabina
+48,9,Tripulante de Cabina
+11,132,Tripulante de Cabina
+14,64,Tripulante de Cabina
+43,119,Paramedico
+13,139,Tripulante de Cabina
+47,76,Paramedico
+5,136,Tripulante de Cabina
+26,96,Tripulante de Cabina
+33,31,Tripulante de Cabina
+51,48,Tripulante de Cabina
+48,101,Tripulante de Cabina
+52,136,Paramedico
+52,53,Paramedico
+33,1,Tripulante de Cabina
+30,107,Paramedico
+32,145,Paramedico
+43,87,Paramedico
+48,97,Tripulante de Cabina
+11,83,Tripulante de Cabina
+27,75,Paramedico
+51,57,Tripulante de Cabina
+4,9,Tripulante de Cabina
+11,62,Tripulante de Cabina
