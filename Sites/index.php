@@ -36,6 +36,7 @@
 <div align="center">
 <form>
 	<label>Clientes Frecuentes</label><br>
+	<br>
 	<button type="submit" name="query" value="4">Buscar</button>
 </form>
 </div>
