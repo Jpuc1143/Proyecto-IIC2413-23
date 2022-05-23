@@ -26,7 +26,7 @@
 <hr>
 <div align="center">
 <form>
-	<label>Ingrese su código de reserva:</label>
+	<label>Ingrese su código de reserva:</label><br>
         <input type="text" name="codigo"><br>
 		<br>
 	<button type="submit" name="query" value="3">Buscar</button>
