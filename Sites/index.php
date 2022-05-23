@@ -99,9 +99,11 @@ if (isset($data)) {
 	echo '<table class="table table-striped table-hover">';
 	// theader foreach header
 	echo '<tbody>';
-	foreach($data as $row) {
+	// Aparentemente el meme de php es horrible es verdad y por eso tuve que usar un for en vez del foreach por 
+	// un "propiedad" no-intuitiva.
+	for($i=0;$i<count($data);$i++) {
 		echo "<tr>";
-		foreach($row as $cell) {
+		foreach($data[$i] as $cell) {
 			echo "<td>$cell</td>";
 		}
 		echo "</tr>";
