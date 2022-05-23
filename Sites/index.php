@@ -42,7 +42,6 @@
 <div align="center">
 	<p>Estados de vuelos por nombre de aerolínea</p>
 <form>
-	<label>Estados de vuelos por nombre de aerolinea</label></br>
 	<label>Nombre aerolinea: </label><br>
 	<input type="text" name="compania">
 	<button type="submit" name="query" value="5">Buscar</button>
@@ -68,6 +67,7 @@
 		<option value="pendiente">pendientes</option>
 		<option value="publicado">publicados</option>
 	</select>
+	<br>
 	<br> 
 	<button type="submit" name="query" value="6">Buscar</button>
 </form>
