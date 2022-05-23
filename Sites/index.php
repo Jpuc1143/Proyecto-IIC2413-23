@@ -50,7 +50,23 @@
 <hr>
 <div align="center">
 <form>
-	<label>Aerolinea con mayor porcentaje de vuelos aceptados</label>
+	<label>Aerolinea con</label>
+	<select name="orden">
+		<option value="mayor">mayor</option>
+		<option value="menor">menor</option>
+	</select>
+	<select name="metrica">
+		<option value="porcentaje">porcentaje</option>
+		<option value="cantidad">cantidad</option>
+	</select>
+	<label>de vuelos aceptados</label>
+	<select name="estado">
+		<option value="aceptado">aceptados</option>
+		<option value="rechazado">rechazados</option>
+		<option value="borrador">borradores</option>
+		<option value="pendiente`">pendientes</option>
+		<option value="publicado">publicados</option>
+	</select> 
 	<button type="submit" name="query" value="6">Buscar</button>
 </form>
 </div>
