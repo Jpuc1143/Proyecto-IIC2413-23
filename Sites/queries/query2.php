@@ -13,25 +13,17 @@ if (isset($_GET["icao"])) {
 }
 
 $query = "
-SELECT vuelo.id, compania_aerea.codigo, aerodromo.nombre, vuelo.fecha_salida,vuelo.fecha_llegada
-FROM vuelo,aerodromo,compania_aerea
-WHERE aerodromo.id = vuelo.aerodromo_llegada_id AND
-compania_aerea.codigo = vuelo.compania_codigo AND
-compania_aerea.nombre ILIKE:aerolinea AND
-aeodromo.icao ILIKE:icao
+SELECT compania_aerea.codigo, compania_aerea.nombre, vuelo.codigo, vuelo.estado, aerodromo.nombre, aerodromo.icao
+FROM vuelo
+LEFT JOIN aerodromo ON aerodromo.id = vuelo.aerodromo_llegada_id
+LEFT JOIN compania_aerea ON compania_aerea.codigo = vuelo.compania_codigo
+WHERE estado = 'aceptado' AND
+compania_aerea.nombre ILIKE :aerolinea AND aerodromo.icao ILIKE :icao;
 ";
 $result = $db -> prepare($query);
+$result -> bindParam("aerolinea", $aerolinea);
+$result -> bindParam("icao", $icao);
+
 $result -> execute();
-$data2 = $result -> fetchAll(PDO::FETCH_NUM);
-if (isset($_GET["boton_submit"])) {
-  if (isset($_GET["icao"])){
-    if (isset($_GET["aerolinea"])){
-      foreach($data2 as $arreglo){
-        if ($_GET["icao"]==$arreglo[15] AND $_GET["aerolinea"]==$arreglo[20]){
-          echo "<tr> <td> $arreglo[0]</td> <td>$arreglo[11]</td></tr><br>"; 
-        }
-      }
-    }
-  }
-}
+$data = $result -> fetchAll(PDO::FETCH_NUM);
 ?>
