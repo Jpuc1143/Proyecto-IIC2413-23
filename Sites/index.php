@@ -64,7 +64,7 @@
 		<option value="aceptado">aceptados</option>
 		<option value="rechazado">rechazados</option>
 		<option value="borrador">borradores</option>
-		<option value="pendiente`">pendientes</option>
+		<option value="pendiente">pendientes</option>
 		<option value="publicado">publicados</option>
 	</select> 
 	<button type="submit" name="query" value="6">Buscar</button>

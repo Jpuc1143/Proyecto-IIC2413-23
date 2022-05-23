@@ -24,10 +24,4 @@ $result -> bindParam("codigo", $codigo);
 
 $result -> execute();
 $data = $result -> fetchAll(PDO::FETCH_NUM);
-
-//foreach($data as &$row) {
-//	for($i = 3; $i<count($row); $i += 2) {
-//		$row[$i] = round(100*$row[$i])."%";
-//	}
-//}
 ?>
